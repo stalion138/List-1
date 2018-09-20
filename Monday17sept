@@ -1,155 +1,174 @@
 #EXTM3U
- #EXTINF:-1,UK : DISCOVERI CHANEL
-http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25146.ts
-#EXTINF:-1,UK : Disney Channel
-http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25145.ts
-#EXTINF:-1,UK : DISNEY JUNIOR
-http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25144.ts
-#EXTINF:-1,UK : racing UK
-http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25143.ts
-#EXTINF:-1,UK: ANIMAL PLANET
-http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25121.ts
-#EXTINF:-1,UK: Boxnation. HD
-http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25120.ts
-#EXTINF:-1,UK: CARTOON NETWORK
-http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25115.ts
-#EXTINF:-1,UK: Discovery Channel
-http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25114.ts
-#EXTINF:-1,UK: DISCOVERY HISTORY
-http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25113.ts
-#EXTINF:-1,UK: DISCOVERY SCIENCE
-http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25112.ts
-#EXTINF:-1,UK: DISCOVERY SHED
-http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25111.ts
-#EXTINF:-1,UK: EUROSPORT1
-http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25110.ts
-#EXTINF:-1,UK: Film 4 UK
-http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25109.ts
-#EXTINF:-1,UK: Horror Channel
-http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25108.ts
-#EXTINF:-1,UK: Greats HD
-http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25107.ts
-#EXTINF:-1,UK: NAT GEO HD
-http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25106.ts
-#EXTINF:-1,UK: NAT GEO WILD
-http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25105.ts
-#EXTINF:-1,UK: Setanta Ireland
-http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25104.ts
-#EXTINF:-1,USA | A&E HD
-http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25228.ts
-#EXTINF:-1,USA | ABC HD
-http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25227.ts
-#EXTINF:-1,USA | AMC HD
-http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25218.ts
-#EXTINF:-1,USA | Animal Planet HD
-http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25217.ts
-#EXTINF:-1,USA | BRAVO
-http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25216.ts
-#EXTINF:-1,USA | BRAVO HD
-http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25215.ts
-#EXTINF:-1,USA | CBS HD
-http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25214.ts
-#EXTINF:-1,USA | CNN HD
-http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25209.ts
-#EXTINF:-1,USA | Comedy Central
-http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25208.ts
-#EXTINF:-1,USA | CPAC
-http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25207.ts
-#EXTINF:-1,USA | CW HD
-http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25206.ts
-#EXTINF:-1,USA | Discovery HD
-http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25205.ts
-#EXTINF:-1,USA | DISCOVERY SCIENCE
-http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25204.ts
-#EXTINF:-1,USA | DIY NETWORK HD
-http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25203.ts
-#EXTINF:-1,USA | E!
-http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25202.ts
-#EXTINF:-1,USA | ESPN
-http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25201.ts
-#EXTINF:-1,USA | ESPN 2
-http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25200.ts
-#EXTINF:-1,USA | Fight Network
-http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25199.ts
-#EXTINF:-1,USA | Food Network HD
-http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25198.ts
-#EXTINF:-1,USA | Fox
-http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25197.ts
-#EXTINF:-1,USA | FOX 5 HD
-http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25196.ts
-#EXTINF:-1,USA | Fox News HD
-http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25195.ts
-#EXTINF:-1,USA | Fox Sports 1 HD
-http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25194.ts
-#EXTINF:-1,USA | Fox Sports 2 HD
-http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25193.ts
-#EXTINF:-1,USA | FX HD
-http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25192.ts
-#EXTINF:-1,USA | FXX
-http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25191.ts
-#EXTINF:-1,USA | Golf HD
-http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25190.ts
-#EXTINF:-1,USA | H2
-http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25189.ts
-#EXTINF:-1,USA | HallMark HD
-http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25188.ts
-#EXTINF:-1,USA | HBO
-http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25187.ts
-#EXTINF:-1,USA | HBO Comedy (nbc at 3pm)
-http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25186.ts
-#EXTINF:-1,USA | HBO Family
-http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25185.ts
-#EXTINF:-1,USA | HBO HD 1
-http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25184.ts
-#EXTINF:-1,USA | HBO HD 2
-http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25183.ts
-#EXTINF:-1,USA | HBO Signature
-http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25182.ts
-#EXTINF:-1,USA | HBO Zone
-http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25181.ts
-#EXTINF:-1,USA | HGTV
-http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25180.ts
-#EXTINF:-1,USA | HISTORY
-http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25179.ts
-#EXTINF:-1,USA | Investigation Discovery HD
-http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25178.ts
-#EXTINF:-1,USA | LIFETIME
-http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25177.ts
-#EXTINF:-1,USA | NASA TV HD
-http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25176.ts
-#EXTINF:-1,USA | National Geographic
-http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25175.ts
-#EXTINF:-1,USA | NBA HD
-http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25174.ts
-#EXTINF:-1,USA | NBC
-http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25173.ts
-#EXTINF:-1,USA | NBC GOLF
-http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25172.ts
-#EXTINF:-1,USA | NBC Sports Network HD
-http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25171.ts
-#EXTINF:-1,USA | NFL NETWORK
-http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25170.ts
-#EXTINF:-1,USA | NHL Network (nbc goalrush at 3pm)
-http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25169.ts
-#EXTINF:-1,USA | PAC 12 WASHINGTON HD
-http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25168.ts
-#EXTINF:-1,USA | PBS HD
-http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25167.ts
-#EXTINF:-1,USA | SYFY HD
-http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25157.ts
-#EXTINF:-1,USA | TBS
-http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25156.ts
-#EXTINF:-1,USA | Tennis Channel HD
-http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25155.ts
-#EXTINF:-1,USA | TLC HD
-http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25154.ts
-#EXTINF:-1,USA | TNT HD
-http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25153.ts
-#EXTINF:-1,USA | TRU TV HD
-http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25152.ts
-#EXTINF:-1,USA | UNIVERSAL HD
-http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25151.ts
-#EXTINF:-1,USA | USA NETWORK
-http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25150.ts
-#EXTINF:-1,USA | WWE Network HD
-http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25149.ts
+#EXTINF:-1,[USA] Bravo US
+http://134.19.181.172:8000/live/ddd56/ddd56/207.ts
+#EXTINF:-1,[USA] CHCH HD
+http://134.19.181.172:8000/live/ddd56/ddd56/1974.ts
+#EXTINF:-1,[USA] CNN
+http://134.19.181.172:8000/live/ddd56/ddd56/322.ts
+#EXTINF:-1,[USA] Cartoon Network HD
+http://134.19.181.172:8000/live/ddd56/ddd56/1898.ts
+#EXTINF:-1,[USA] E! Entertainment US
+http://134.19.181.172:8000/live/ddd56/ddd56/1962.ts
+#EXTINF:-1,[USA] ESPN 2
+http://134.19.181.172:8000/live/ddd56/ddd56/2003.ts
+#EXTINF:-1,[USA] ESPN U
+http://134.19.181.172:8000/live/ddd56/ddd56/2002.ts
+#EXTINF:-1,[USA] Fox HD
+http://134.19.181.172:8000/live/ddd56/ddd56/1905.ts
+#EXTINF:-1,[USA] Fox Sport 1 HD
+http://134.19.181.172:8000/live/ddd56/ddd56/1089.ts
+#EXTINF:-1,[USA] HBO Signature
+http://134.19.181.172:8000/live/ddd56/ddd56/1976.ts
+#EXTINF:-1,[USA] HBO US
+http://134.19.181.172:8000/live/ddd56/ddd56/1975.ts
+#EXTINF:-1,[USA] HBO Zone
+http://134.19.181.172:8000/live/ddd56/ddd56/1961.ts
+#EXTINF:-1,[USA] HGTV
+http://134.19.181.172:8000/live/ddd56/ddd56/2014.ts
+#EXTINF:-1,[USA] MSNBC
+http://134.19.181.172:8000/live/ddd56/ddd56/2258.ts
+#EXTINF:-1,[USA] NBA TV HD
+http://134.19.181.172:8000/live/ddd56/ddd56/1903.ts
+#EXTINF:-1,[USA] NBC Golf
+http://134.19.181.172:8000/live/ddd56/ddd56/2042.ts
+#EXTINF:-1,[USA] NFL Network HD
+http://134.19.181.172:8000/live/ddd56/ddd56/1908.ts
+#EXTINF:-1,[USA] NHL NETWORK
+http://134.19.181.172:8000/live/ddd56/ddd56/1907.ts
+#EXTINF:-1,[USA] Nicktoons
+http://134.19.181.172:8000/live/ddd56/ddd56/1904.ts
+#EXTINF:-1,[USA] SPIKE HD
+http://134.19.181.172:8000/live/ddd56/ddd56/1909.ts
+#EXTINF:-1,[USA] Showtime HD
+http://134.19.181.172:8000/live/ddd56/ddd56/1901.ts
+#EXTINF:-1,[USA] SyFy HD
+http://134.19.181.172:8000/live/ddd56/ddd56/1910.ts
+#EXTINF:-1,[USA] Tennis Channel HD
+http://134.19.181.172:8000/live/ddd56/ddd56/1992.ts
+#EXTINF:-1,[USA] USA Network
+http://134.19.181.172:8000/live/ddd56/ddd56/1911.ts
+#EXTM3U
+#EXTINF:-1,[UK] ABC Action New
+http://134.19.181.172:8000/live/ddd56/ddd56/848.ts
+#EXTINF:-1,[UK] ABC New
+http://134.19.181.172:8000/live/ddd56/ddd56/847.ts
+#EXTINF:-1,[UK] Animal planet
+http://134.19.181.172:8000/live/ddd56/ddd56/925.ts
+#EXTINF:-1,[UK] BBC FOUR
+http://134.19.181.172:8000/live/ddd56/ddd56/639.ts
+#EXTINF:-1,[UK] BBC News
+http://134.19.181.172:8000/live/ddd56/ddd56/638.ts
+#EXTINF:-1,[UK] BBC One
+http://134.19.181.172:8000/live/ddd56/ddd56/637.ts
+#EXTINF:-1,[UK] BBC Three
+http://134.19.181.172:8000/live/ddd56/ddd56/636.ts
+#EXTINF:-1,[UK] BBC Two
+http://134.19.181.172:8000/live/ddd56/ddd56/635.ts
+#EXTINF:-1,[UK] BT Sport 1
+http://134.19.181.172:8000/live/ddd56/ddd56/641.ts
+#EXTINF:-1,[UK] BT Sport 2
+http://134.19.181.172:8000/live/ddd56/ddd56/640.ts
+#EXTINF:-1,[UK] Baby TV
+http://134.19.181.172:8000/live/ddd56/ddd56/1900.ts
+#EXTINF:-1,[UK] Boomerang
+http://134.19.181.172:8000/live/ddd56/ddd56/1056.ts
+#EXTINF:-1,[UK] Box Nation
+http://134.19.181.172:8000/live/ddd56/ddd56/948.ts
+#EXTINF:-1,[UK] CBS Drama
+http://134.19.181.172:8000/live/ddd56/ddd56/853.ts
+#EXTINF:-1,[UK] CCTV 9
+http://134.19.181.172:8000/live/ddd56/ddd56/1693.ts
+#EXTINF:-1,[UK] CTH Stadium 2 HD
+http://134.19.181.172:8000/live/ddd56/ddd56/940.ts
+#EXTINF:-1,[UK] Cartoonito
+http://134.19.181.172:8000/live/ddd56/ddd56/1055.ts
+#EXTINF:-1,[UK] Cbeebies HD
+http://134.19.181.172:8000/live/ddd56/ddd56/1993.ts
+#EXTINF:-1,[UK] Cinemax Action Max
+http://134.19.181.172:8000/live/ddd56/ddd56/1094.ts
+#EXTINF:-1,[UK] Cinemax HD
+http://134.19.181.172:8000/live/ddd56/ddd56/1093.ts
+#EXTINF:-1,[UK] Comedy Central Extra
+http://134.19.181.172:8000/live/ddd56/ddd56/969.ts
+#EXTINF:-1,[UK] Comedy Central UK
+http://134.19.181.172:8000/live/ddd56/ddd56/968.ts
+#EXTINF:-1,[UK] Crime
+http://134.19.181.172:8000/live/ddd56/ddd56/923.ts
+#EXTINF:-1,[UK] DTX HD
+http://134.19.181.172:8000/live/ddd56/ddd56/846.ts
+#EXTINF:-1,[UK] Dave
+http://134.19.181.172:8000/live/ddd56/ddd56/634.ts
+#EXTINF:-1,[UK] Discovery History
+http://134.19.181.172:8000/live/ddd56/ddd56/939.ts
+#EXTINF:-1,[UK] Discovery ID
+http://134.19.181.172:8000/live/ddd56/ddd56/938.ts
+#EXTINF:-1,[UK] Discovery Science
+http://134.19.181.172:8000/live/ddd56/ddd56/937.ts
+#EXTINF:-1,[UK] Discovery Shed
+http://134.19.181.172:8000/live/ddd56/ddd56/936.ts
+#EXTINF:-1,[UK] Disney Channel UK
+http://134.19.181.172:8000/live/ddd56/ddd56/1991.ts
+#EXTINF:-1,[UK] Disney Junior UK
+http://134.19.181.172:8000/live/ddd56/ddd56/960.ts
+#EXTINF:-1,[UK] Disney XD UK
+http://134.19.181.172:8000/live/ddd56/ddd56/1990.ts
+#EXTINF:-1,[UK] Dmax
+http://134.19.181.172:8000/live/ddd56/ddd56/970.ts
+#EXTINF:-1,[UK] E4
+http://134.19.181.172:8000/live/ddd56/ddd56/964.ts
+#EXTINF:-1,[UK] Five Star
+http://134.19.181.172:8000/live/ddd56/ddd56/633.ts
+#EXTINF:-1,[UK] Fox News
+http://134.19.181.172:8000/live/ddd56/ddd56/961.ts
+#EXTINF:-1,[UK] Fox Sport 2 HD
+http://134.19.181.172:8000/live/ddd56/ddd56/1090.ts
+#EXTINF:-1,[UK] Fox UK
+http://134.19.181.172:8000/live/ddd56/ddd56/965.ts
+#EXTINF:-1,[UK] France 24 English
+http://134.19.181.172:8000/live/ddd56/ddd56/1696.ts
+#EXTINF:-1,[UK] Good Food
+http://134.19.181.172:8000/live/ddd56/ddd56/632.ts
+#EXTINF:-1,[UK] H2
+http://134.19.181.172:8000/live/ddd56/ddd56/959.ts
+#EXTINF:-1,[UK] History 1
+http://134.19.181.172:8000/live/ddd56/ddd56/971.ts
+#EXTINF:-1,[UK] Home
+http://134.19.181.172:8000/live/ddd56/ddd56/631.ts
+#EXTINF:-1,[UK] ITV 1
+http://134.19.181.172:8000/live/ddd56/ddd56/919.ts
+#EXTINF:-1,[UK] ITV 2
+http://134.19.181.172:8000/live/ddd56/ddd56/920.ts
+#EXTINF:-1,[UK] ITV 3
+http://134.19.181.172:8000/live/ddd56/ddd56/921.ts
+#EXTINF:-1,[UK] ITV 4
+http://134.19.181.172:8000/live/ddd56/ddd56/922.ts
+#EXTINF:-1,[UK] ITV Be
+http://134.19.181.172:8000/live/ddd56/ddd56/630.ts
+#EXTINF:-1,[UK] Nat Geo UK
+http://134.19.181.172:8000/live/ddd56/ddd56/963.ts
+#EXTINF:-1,[UK] Nat Geo Wild UK
+http://134.19.181.172:8000/live/ddd56/ddd56/972.ts
+#EXTINF:-1,[UK] National Geographic
+http://134.19.181.172:8000/live/ddd56/ddd56/924.ts
+#EXTINF:-1,[UK] Nick Junior
+http://134.19.181.172:8000/live/ddd56/ddd56/628.ts
+#EXTINF:-1,[UK] Nickelodeon
+http://134.19.181.172:8000/live/ddd56/ddd56/627.ts
+#EXTINF:-1,[UK] Nicktoons
+http://134.19.181.172:8000/live/ddd56/ddd56/626.ts
+#EXTINF:-1,[UK] RTE 1
+http://134.19.181.172:8000/live/ddd56/ddd56/1053.ts
+#EXTINF:-1,[UK] RTE Jr
+http://134.19.181.172:8000/live/ddd56/ddd56/1059.ts
+#EXTINF:-1,[UK] RTE Two
+http://134.19.181.172:8000/live/ddd56/ddd56/1058.ts
+#EXTINF:-1,[UK] Real Lives
+http://134.19.181.172:8000/live/ddd56/ddd56/625.ts
+#EXTINF:-1,[UK] Setanta Sport
+http://134.19.181.172:8000/live/ddd56/ddd56/942.ts
+#EXTINF:-1,[UK] TINY POP
+http://134.19.181.172:8000/live/ddd56/ddd56/1899.ts
+#EXTINF:-1,[UK] TV3 Ireland
+http://134.19.181.172:8000/live/ddd56/ddd56/1054.ts
+#EXTINF:-1,[UK] WWE US
+http://134.19.181.172:8000/live/ddd56/ddd56/845.ts 

@@ -1,25 +1,4 @@
 #EXTM3U
-#EXTINF:-1,KBSN Sports
-http://222.112.102.19:9981/stream/channelid/617865793
-#EXTINF:-1,MBC Sports 
-http://222.112.102.19:9981/stream/channelid/693545287
-#EXTINF:-1,SBS Sports
-http://222.112.102.19:9981/stream/channelid/1371939353
-#EXTINF:-1,SKY Sports
-http://222.112.102.19:9981/stream/channelid/796035982
-#EXTINF:-1,SPOTV
-http://222.112.102.19:9981/stream/channelid/859487617
-#EXTINF:-1,SPOTV TWO/SPOTV TWO/{PMT:3720}
-http://222.112.102.19:9981/stream/channelid/66685144
-#EXTINF:-1,IB SPORTS/IB SPORTS/{PMT:3730}
-http://222.112.102.19:9981/stream/channelid/1230564836
-#EXTINF:-1,TRING NEWS
-http://158.69.162.115:3361/out/u/287_3.m3u8
-#EXTINF:-1,TRING SPORT 1
-http://95.107.132.100/out/u/398_3.m3u8
-#EXTINF:-1,TRING SPORT 2
-http://stream.shqiptv.com:7080/8096/tracks-v1a1/index.m3u8
-#EXTM3U
 #EXTINF:-1,SKY SPORT MAIN EVENT
 http://p4.giffy.be:8080/live/coke123/coke123/21743.ts
 #EXTINF:-1,SKY SPORTS CRICKET

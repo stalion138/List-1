@@ -1,76 +1,4 @@
 #EXTM3U
-#EXTINF:-1,SKY SPORT MAIN EVENT
-http://p4.giffy.be:8080/live/coke123/coke123/21743.ts
-#EXTINF:-1,SKY SPORTS CRICKET
-http://p4.giffy.be:8080/live/coke123/coke123/21742.ts
-#EXTINF:-1,SKY SPORTS ACTION
-http://p4.giffy.be:8080/live/coke123/coke123/21741.ts
-#EXTINF:-1,SKY SPORTS GOLF
-http://p4.giffy.be:8080/live/coke123/coke123/21740.ts
-#EXTINF:-1,SKY SPORT SKY PREMIER LEAGUE
-http://p4.giffy.be:8080/live/coke123/coke123/21739.ts
-#EXTINF:-1,SKY SPORT F1 HD
-http://p4.giffy.be:8080/live/coke123/coke123/21738.ts
-#EXTINF:-1,SKY SPORT NEWS
-http://p4.giffy.be:8080/live/coke123/coke123/21732.ts
-#EXTINF:-1,SKY SPORTS MIX
-http://p4.giffy.be:8080/live/coke123/coke123/21728.ts
-#EXTINF:-1,SKY SPORTS NEWS HD
-http://p4.giffy.be:8080/live/coke123/coke123/21737.ts
-#EXTINF:-1,SKY SPORTS HD ARENA
-http://p4.giffy.be:8080/live/coke123/coke123/27769.ts
-#EXTINF:-1,SKY SPORT 1 HD
-http://p4.giffy.be:8080/live/coke123/coke123/30065.ts
-#EXTINF:-1,SKY SPORT 2 HD
-http://p4.giffy.be:8080/live/coke123/coke123/30066.ts
-#EXTINF:-1,SKY SPORT NEWS.
-http://p4.giffy.be:8080/live/coke123/coke123/30075.ts
-#EXTINF:-1,SKY FOOTBALL
-http://p4.giffy.be:8080/live/coke123/coke123/28297.ts
-#EXTINF:-1,BT SPORTS 1 HD
-http://p4.giffy.be:8080/live/coke123/coke123/21736.ts
-#EXTINF:-1 tvg-id="10343" tvg-name="UK: BT Sport 1 HD" tvg-logo="" group-title="UK",UK: BT Sport 1 HD
-http://iptvdirecto.com:8000/live/marcelo/marcelo/10343.ts
-#EXTINF:-1 tvg-id="10342" tvg-name="UK: BT Sport 2 HD" tvg-logo="" group-title="UK",UK: BT Sport 2 HD
-http://iptvdirecto.com:8000/live/marcelo/marcelo/10342.ts
-#EXTINF:-1 tvg-id="10341" tvg-name="UK: BT Sport 2 HD 1080p" tvg-logo="" group-title="UK",UK: BT Sport 2 HD 1080p
-http://iptvdirecto.com:8000/live/marcelo/marcelo/10341.ts
-#EXTINF:-1 tvg-id="10340" tvg-name="UK: BT Sport 3 HD" tvg-logo="" group-title="UK",UK: BT Sport 3 HD
-http://iptvdirecto.com:8000/live/marcelo/marcelo/10340.ts
-#EXTINF:-1 tvg-id="10339" tvg-name="UK: BT Sport 3 HD 1080p" tvg-logo="" group-title="UK",UK: BT Sport 3 HD 1080p
-http://iptvdirecto.com:8000/live/marcelo/marcelo/10339.ts
-#EXTINF:-1 tvg-id="10338" tvg-name="UK: BT Sport 3 SD" tvg-logo="" group-title="UK",UK: BT Sport 3 SD
-http://iptvdirecto.com:8000/live/marcelo/marcelo/10338.ts
-#EXTINF:-1 tvg-id="10337" tvg-name="UK: BT Sport ESPN" tvg-logo="" group-title="UK",UK: BT Sport ESPN
-http://iptvdirecto.com:8000/live/marcelo/marcelo/10337.ts
-#EXTINF:-1 tvg-id="10336" tvg-name="UK: BT Sport Europe HD" tvg-logo="" group-title="UK",UK: BT Sport Europe HD
-http://iptvdirecto.com:8000/live/marcelo/marcelo/10336.ts
-#EXTINF:-1 tvg-id="10335" tvg-name="UK: BT Sport Extra 1" tvg-logo="" group-title="UK",UK: BT Sport Extra 1
-http://iptvdirecto.com:8000/live/marcelo/marcelo/10335.ts
-#EXTINF:-1 tvg-id="10334" tvg-name="UK: BT Sport Extra 2" tvg-logo="" group-title="UK",UK: BT Sport Extra 2
-http://iptvdirecto.com:8000/live/marcelo/marcelo/10334.ts
-#EXTINF:-1 tvg-id="10333" tvg-name="UK: BT Sport Extra 3" tvg-logo="" group-title="UK",UK: BT Sport Extra 3
-http://iptvdirecto.com:8000/live/marcelo/marcelo/10333.ts
-#EXTINF:-1 tvg-id="10332" tvg-name="UK: BT Sport Extra 4" tvg-logo="" group-title="UK",UK: BT Sport Extra 4
-http://iptvdirecto.com:8000/live/marcelo/marcelo/10332.ts
-#EXTINF:-1 tvg-id="10331" tvg-name="UK: BT Sport Extra 5" tvg-logo="" group-title="UK",UK: BT Sport Extra 5
-http://iptvdirecto.com:8000/live/marcelo/marcelo/10331.ts
-#EXTINF:-1 tvg-id="10330" tvg-name="UK: BT Sport Mosaic" tvg-logo="" group-title="UK",UK: BT Sport Mosaic
-http://iptvdirecto.com:8000/live/marcelo/marcelo/10330.ts
-#EXTINF:-1 tvg-id="10329" tvg-name="UK: BT Sport Mosaic 2" tvg-logo="" group-title="UK",UK: BT Sport Mosaic 2
-http://iptvdirecto.com:8000/live/marcelo/marcelo/10329.ts
-#EXTINF:-1 tvg-id="10328" tvg-name="UK: BT Sports 2 SD" tvg-logo="" group-title="UK",UK: BT Sports 2 SD
-http://iptvdirecto.com:8000/live/marcelo/marcelo/10328.ts
-#EXTINF:-1 tvg-id="10362" tvg-name="UK: Sky Sport 2 HD" tvg-logo="" group-title="UK",UK: Sky Sport 2 HD
-http://iptvdirecto.com:8000/live/marcelo/marcelo/10362.ts
-#EXTINF:-1 tvg-id="10361" tvg-name="UK: Sky Sport 3 HD" tvg-logo="" group-title="UK",UK: Sky Sport 3 HD
-http://iptvdirecto.com:8000/live/marcelo/marcelo/10361.ts
-#EXTINF:-1 tvg-id="10360" tvg-name="UK: Sky Sport 4 HD" tvg-logo="" group-title="UK",UK: Sky Sport 4 HD
-http://iptvdirecto.com:8000/live/marcelo/marcelo/10360.ts
-#EXTINF:-1 tvg-id="10359" tvg-name="UK: Sky Sport 5 HD" tvg-logo="" group-title="UK",UK: Sky Sport 5 HD
-http://iptvdirecto.com:8000/live/marcelo/marcelo/10359.ts
-#EXTINF:-1 tvg-id="10358" tvg-name="UK: Sky Sport News" tvg-logo="" group-title="UK",UK: Sky Sport News
-http://iptvdirecto.com:8000/live/marcelo/marcelo/10358.ts
 #EXTINF:-1 tvg-id="10357" tvg-name="UK: SKY SPORTS 1" tvg-logo="" group-title="UK",UK: SKY SPORTS 1
 http://iptvdirecto.com:8000/live/marcelo/marcelo/10357.ts
 #EXTINF:-1 tvg-id="10356" tvg-name="UK: Sky Sports 1 HD" tvg-logo="" group-title="UK",UK: Sky Sports 1 HD
@@ -95,7 +23,51 @@ http://iptvdirecto.com:8000/live/marcelo/marcelo/10348.ts
 http://iptvdirecto.com:8000/live/marcelo/marcelo/10347.ts
 #EXTINF:-1 tvg-id="10346" tvg-name="UK: Sky Sports F1 HD 1080p" tvg-logo="" group-title="UK",UK: Sky Sports F1 HD 1080p
 http://iptvdirecto.com:8000/live/marcelo/marcelo/10346.ts
-#EXTINF:-1 tvg-id="10345" tvg-name="UK: Sky Sports Mix" tvg-logo="" group-title="UK",UK: Sky Sports Mix
-http://iptvdirecto.com:8000/live/marcelo/marcelo/10345.ts
-#EXTINF:-1 tvg-id="10344" tvg-name="UK: Sky Sports News HD 1080p" tvg-logo="" group-title="UK",UK: Sky Sports News HD 1080p
-http://iptvdirecto.com:8000/live/marcelo/marcelo/10344.ts
+#EXTINF:-1,UK@ Racing UK HD
+http://188.93.238.184:8000/live/snet/snet/11160.ts
+#EXTINF:-1,UK@ Racing UK (Backup)
+http://188.93.238.184:8000/live/snet/snet/29478.ts
+#EXTINF:-1,UK@ Racing UK (Backup-1)
+http://188.93.238.184:8000/live/snet/snet/37381.ts
+#EXTINF:-1,UK@ Sky Sports Main Event HD
+http://188.93.238.184:8000/live/snet/snet/36512.ts
+#EXTINF:-1,UK@ Sky Sports Main Event SD
+http://188.93.238.184:8000/live/snet/snet/37954.ts
+#EXTINF:-1,UK@ Sky Sports Main Event (Backup-1)
+http://188.93.238.184:8000/live/snet/snet/36513.ts
+#EXTINF:-1,UK@ Sky Sports Main Event (Backup-2)
+http://188.93.238.184:8000/live/snet/snet/37826.ts
+#EXTINF:-1,UK@ Sky Sports Prem Lge HD
+http://188.93.238.184:8000/live/snet/snet/36514.ts
+#EXTINF:-1,UK@ Sky Sports Prem Lge (Backup-1)
+http://188.93.238.184:8000/live/snet/snet/13633.ts
+#EXTINF:-1,UK@ Sky Sports Football HD
+http://188.93.238.184:8000/live/snet/snet/12451.ts
+#EXTINF:-1,UK@ Sky Sports Football (Backup-1)
+http://188.93.238.184:8000/live/snet/snet/37400.ts
+#EXTINF:-1,UK@ Sky Sports Football (Backup-2)
+http://188.93.238.184:8000/live/snet/snet/36511.ts
+#EXTINF:-1,UK@ Sky Sports Cricket HD
+http://188.93.238.184:8000/live/snet/snet/37955.ts
+#EXTINF:-1,UK@ Sky Sports Cricket (Backup-1)
+http://188.93.238.184:8000/live/snet/snet/16599.ts
+#EXTINF:-1,UK@ Sky Sports F1 HD
+http://188.93.238.184:8000/live/snet/snet/9721.ts
+#EXTINF:-1,UK@ Sky Sports F1(Backup-1)
+http://188.93.238.184:8000/live/snet/snet/9722.ts
+#EXTINF:-1,UK@ Sky Sports Arena HD
+http://188.93.238.184:8000/live/snet/snet/11911.ts
+#EXTINF:-1,UK@ Sky Sports Arena (Backup-1)
+http://188.93.238.184:8000/live/snet/snet/37294.ts
+#EXTINF:-1,UK@ Sky Sports Arena (Backup-2)
+http://188.93.238.184:8000/live/snet/snet/37834.ts
+#EXTINF:-1,UK@ Sky Sports News HQ
+http://188.93.238.184:8000/live/snet/snet/9725.ts
+#EXTINF:-1,UK@ Sky Sports News (Backup-1)
+http://188.93.238.184:8000/live/snet/snet/37299.ts
+#EXTINF:-1,UK@Sky Sports Golf HD
+http://188.93.238.184:8000/live/snet/snet/37569.ts
+#EXTINF:-1,UK@ Sky Sports Golf (Backup-1)
+http://188.93.238.184:8000/live/snet/snet/32594.ts
+#EXTINF:-1,UK@ Sky Sports Golf (Backup-2)
+http://188.93.238.184:8000/live/snet/snet/37836.ts

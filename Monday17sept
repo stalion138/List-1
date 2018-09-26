@@ -17,83 +17,100 @@ http://iptvdirecto.com:8000/live/marcelo/marcelo/10351.ts
 http://iptvdirecto.com:8000/live/marcelo/marcelo/10350.ts
 #EXTINF:-1 tvg-id="10349" tvg-name="UK: Sky Sports 4 HD 1080p" tvg-logo="" group-title="UK",UK: Sky Sports 4 HD 1080p
 http://iptvdirecto.com:8000/live/marcelo/marcelo/10349.ts
-#EXTINF:-1 tvg-id="10348" tvg-name="UK: SKY SPORTS 5" tvg-logo="" group-title="UK",UK: SKY SPORTS 5
-http://iptvdirecto.com:8000/live/marcelo/marcelo/10348.ts
-#EXTINF:-1 tvg-id="10347" tvg-name="UK: Sky Sports 5 HD 1080p" tvg-logo="" group-title="UK",UK: Sky Sports 5 HD 1080p
-http://iptvdirecto.com:8000/live/marcelo/marcelo/10347.ts
-#EXTINF:-1 tvg-id="10346" tvg-name="UK: Sky Sports F1 HD 1080p" tvg-logo="" group-title="UK",UK: Sky Sports F1 HD 1080p
-http://iptvdirecto.com:8000/live/marcelo/marcelo/10346.ts
-#EXTINF:-1,UK@ Racing UK HD
-http://188.93.238.184:8000/live/snet/snet/11160.ts
-#EXTINF:-1,UK@ Racing UK (Backup)
-http://188.93.238.184:8000/live/snet/snet/29478.ts
-#EXTINF:-1,UK@ Racing UK (Backup-1)
-http://188.93.238.184:8000/live/snet/snet/37381.ts
-#EXTINF:-1,UK@ Sky Sports Main Event HD
-http://188.93.238.184:8000/live/snet/snet/36512.ts
-#EXTINF:-1,UK@ Sky Sports Main Event SD
-http://188.93.238.184:8000/live/snet/snet/37954.ts
-#EXTINF:-1,UK@ Sky Sports Main Event (Backup-1)
-http://188.93.238.184:8000/live/snet/snet/36513.ts
-#EXTINF:-1,UK@ Sky Sports Main Event (Backup-2)
-http://188.93.238.184:8000/live/snet/snet/37826.ts
-#EXTINF:-1,UK@ Sky Sports Prem Lge HD
-http://188.93.238.184:8000/live/snet/snet/36514.ts
-#EXTINF:-1,UK@ Sky Sports Prem Lge (Backup-1)
-http://188.93.238.184:8000/live/snet/snet/13633.ts
-#EXTINF:-1,UK@ Sky Sports Football HD
-http://188.93.238.184:8000/live/snet/snet/12451.ts
-#EXTINF:-1,UK@ Sky Sports Football (Backup-1)
-http://188.93.238.184:8000/live/snet/snet/37400.ts
-#EXTINF:-1,UK@ Sky Sports Football (Backup-2)
-http://188.93.238.184:8000/live/snet/snet/36511.ts
-#EXTINF:-1,UK@ Sky Sports Cricket HD
-http://188.93.238.184:8000/live/snet/snet/37955.ts
-#EXTINF:-1,UK@ Sky Sports Cricket (Backup-1)
-http://188.93.238.184:8000/live/snet/snet/16599.ts
-#EXTINF:-1,UK@ Sky Sports F1 HD
-http://188.93.238.184:8000/live/snet/snet/9721.ts
-#EXTINF:-1,UK@ Sky Sports F1(Backup-1)
-http://188.93.238.184:8000/live/snet/snet/9722.ts
-#EXTINF:-1,UK@ Sky Sports Arena HD
-http://188.93.238.184:8000/live/snet/snet/11911.ts
-#EXTINF:-1,UK@ Sky Sports Arena (Backup-1)
-http://188.93.238.184:8000/live/snet/snet/37294.ts
-#EXTINF:-1,UK@ Sky Sports Arena (Backup-2)
-http://188.93.238.184:8000/live/snet/snet/37834.ts
-#EXTINF:-1,UK@ Sky Sports News HQ
-http://188.93.238.184:8000/live/snet/snet/9725.ts
-#EXTINF:-1,UK@ Sky Sports News (Backup-1)
-http://188.93.238.184:8000/live/snet/snet/37299.ts
-#EXTINF:-1,UK@Sky Sports Golf HD
-http://188.93.238.184:8000/live/snet/snet/37569.ts
-#EXTINF:-1,UK@ Sky Sports Golf (Backup-1)
-http://188.93.238.184:8000/live/snet/snet/32594.ts
-#EXTINF:-1,UK@ Sky Sports Golf (Backup-2)
-http://188.93.238.184:8000/live/snet/snet/37836.ts
-#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="Sky Sports Main Event HD" tvg-logo="https://image.ibb.co/cMYmxK/images.jpg" group-title="UK Sport",Sky Sports Main Event HD
-http://vapi.vaders.tv/play/2889.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6InN1cHBvcnQ4In0=
-#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="Sky Sports Football HD" tvg-logo="https://e3.365dm.com/tvlogos/channels/3838-Logo.svg?U2t5IFNwb3J0cyBGb290YmFsbA==" group-title="UK Sport",Sky Sports Football HD
-http://vapi.vaders.tv/play/42360.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6InN1cHBvcnQ4In0=
-#EXTINF:-1 tvg-id="SkySportsPremiereLeague.uk" tvg-name="Sky Sports Premier League HD" tvg-logo="https://e3.365dm.com/tvlogos/channels/1303-Logo.svg?U2t5IFNwb3J0cyBQcmVtaWVyIExlYWd1ZQ==" group-title="UK Sport",Sky Sports Premier League HD
-http://vapi.vaders.tv/play/2482.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6InN1cHBvcnQ4In0=
-#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-name="Sky Sports Action HD" tvg-logo="https://e3.365dm.com/tvlogos/channels/1333-Logo.svg?U2t5IFNwb3J0cyBBY3Rpb24=" group-title="UK Sport",Sky Sports Action HD
-http://vapi.vaders.tv/play/2480.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6InN1cHBvcnQ4In0=
-#EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-name="Sky Sports Arena HD" tvg-logo="https://e3.365dm.com/tvlogos/channels/3839-Logo.svg?U2t5IFNwb3J0cyBBcmVuYQ==" group-title="UK Sport",Sky Sports Arena HD
-http://vapi.vaders.tv/play/42361.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6InN1cHBvcnQ4In0=
-#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="Sky Sports Cricket HD" tvg-logo="https://e3.365dm.com/tvlogos/channels/1302-Logo.svg?U2t5IFNwb3J0cyBDcmlja2V0" group-title="UK Sport",Sky Sports Cricket HD
-http://vapi.vaders.tv/play/2479.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6InN1cHBvcnQ4In0=
-#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="Sky Sports Mix HD" tvg-logo="https://e3.365dm.com/tvlogos/channels/4091-Logo.svg?U2t5IFNwb3J0cyBNaXg=" group-title="UK Sport",Sky Sports Mix HD
-http://vapi.vaders.tv/play/37235.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6InN1cHBvcnQ4In0=
-#EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="BT Sport 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/BTSPORT_1_BLACK_RGB.png/1600px-BTSPORT_1_BLACK_RGB.png" group-title="UK Sport",BT Sport 1 HD
-http://vapi.vaders.tv/play/2487.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6InN1cHBvcnQ4In0=
-#EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="BT Sport 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/BTSPORT_2_BLACK_RGB.png/1600px-BTSPORT_2_BLACK_RGB.png" group-title="UK Sport",BT Sport 2 HD
-http://vapi.vaders.tv/play/2488.m3u8?token=eyJ1c2VybmFtZSI6InVzMDYxMTIwMTYiLCJwYXNzd29yZCI6InN1cHBvcnQ4In0=
-#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="Sky Sports Main Event UHD" tvg-logo="https://www.thelogodb.com/images/media/logonew/mp44981502554837.png/small" group-title="4K",Sky Sports Main Event UHD
-http://epicstream.ddns.net/live/BPXXTWCXC/FNWGCNQ8EU/15754.ts
-#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="Sky Sports Football UHD" tvg-logo="https://www.thelogodb.com/images/media/logonew/lnd1p01502554851.png/small" group-title="4K",Sky Sports Football UHD
-http://epicstream.ddns.net/live/BPXXTWCXC/FNWGCNQ8EU/15756.ts
-#EXTINF:-1 tvg-id="SkySportsPremiereLeague.uk" tvg-name="Sky Sports Premier League UHD" tvg-logo="https://www.thelogodb.com/images/media/logonew/7e2lv21502554825.png/small" group-title="4K",Sky Sports Premier League UHD
-http://epicstream.ddns.net/live/BPXXTWCXC/FNWGCNQ8EU/15751.ts
-#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-name="Sky Sports Action UHD" tvg-logo="https://www.thelogodb.com/images/media/logonew/kf0oba1502554875.png/small" group-title="4K",Sky Sports Action UHD
-http://epicstream.ddns.net/live/BPXXTWCXC/FNWGCNQ8EU/15760.ts
+http://landiptv.live:8080/live/ricardo/ricardo/65169.ts
+#EXTINF:-1,UK: AT THE RACES
+http://landiptv.live:8080/live/ricardo/ricardo/65018.ts
+#EXTINF:-1,UK: Racing UK HD
+http://landiptv.live:8080/live/ricardo/ricardo/65019.ts
+#EXTINF:-1,UK: BOX OFFICE HD 1
+http://landiptv.live:8080/live/ricardo/ricardo/74550.ts
+#EXTINF:-1,UK: BoxOffice 2
+http://landiptv.live:8080/live/ricardo/ricardo/74551.ts
+#EXTINF:-1,UK: BoxOffice 4
+http://landiptv.live:8080/live/ricardo/ricardo/74552.ts
+#EXTINF:-1,UK:Sports_Football
+http://178.33.239.88:9000/live/2018/2018/8067.ts
+#EXTINF:-1,UK:Sky Premier Sport
+http://178.33.239.88:9000/live/2018/2018/12943.ts
+#EXTINF:-1,UK:Sky Sport Premier League
+http://178.33.239.88:9000/live/2018/2018/12947.ts
+#EXTINF:-1,UK:Sky Sport Premier League (b)
+http://178.33.239.88:9000/live/2018/2018/12946.ts
+#EXTINF:-1,UK:Sky Sports Premier league
+http://178.33.239.88:9000/live/2018/2018/12948.ts
+#EXTINF:-1,UK:SKY_PREMIER
+http://178.33.239.88:9000/live/2018/2018/12945.ts
+#EXTINF:-1,UK:BT_SPORT_1
+http://178.33.239.88:9000/live/2018/2018/10521.ts
+#EXTINF:-1,UK:BT_SPORT_2
+http://178.33.239.88:9000/live/2018/2018/10522.ts
+#EXTINF:-1,UK:BT_SPORT_3
+http://178.33.239.88:9000/live/2018/2018/9260.ts
+#EXTINF:-1,UK:BT_Sports_ESPN
+http://178.33.239.88:9000/live/2018/2018/8069.ts
+#EXTINF:-1,UK:Sky_Sport
+http://178.33.239.88:9000/live/2018/2018/7860.ts
+#EXTINF:-1,UK:Sky_Sports_1
+http://178.33.239.88:9000/live/2018/2018/8092.ts
+#EXTINF:-1,UK:Sky_Sports 2
+http://178.33.239.88:9000/live/2018/2018/8091.ts
+#EXTINF:-1,UK:Sky_Sports_3
+http://178.33.239.88:9000/live/2018/2018/8090.ts
+#EXTINF:-1,UK:Sky_Sports_5
+http://178.33.239.88:9000/live/2018/2018/8088.ts
+#EXTINF:-1,UK:Sky_Sports_4
+http://178.33.239.88:9000/live/2018/2018/8089.ts
+#EXTINF:-1,UK:Sky Sport MIX
+http://178.33.239.88:9000/live/2018/2018/12938.ts
+#EXTINF:-1,UK:Sky_Sports BT
+http://178.33.239.88:9000/live/2018/2018/12941.ts
+#EXTINF:-1,UK:Sky Sports
+http://178.33.239.88:9000/live/2018/2018/12942.ts
+#EXTINF:-1,Uk: Sky Sports Box
+http://178.33.239.88:9000/live/2018/2018/12937.ts
+#EXTINF:-1,UK: Sky Sports 1
+http://87.120.36.166:80/live/test2017/test2017/2006.ts
+#EXTINF:-1,UK: SKY SPORT MAIN EVENT HD
+http://87.120.36.166:80/live/test2017/test2017/3193.ts
+#EXTINF:-1,UK: Sky Sports 2
+http://87.120.36.166:80/live/test2017/test2017/8314.ts
+#EXTINF:-1,UK: SKY SPORT CRICKET HD
+http://87.120.36.166:80/live/test2017/test2017/3194.ts
+#EXTINF:-1,UK: Sky Sports 3
+http://87.120.36.166:80/live/test2017/test2017/8313.ts
+#EXTINF:-1,UK:  SKY SPORT ACTION HD
+http://87.120.36.166:80/live/test2017/test2017/3195.ts
+#EXTINF:-1,UK: Sky Sports 4
+http://87.120.36.166:80/live/test2017/test2017/2012.ts
+#EXTINF:-1,UK: SKY SPORT GOLF HD
+http://87.120.36.166:80/live/test2017/test2017/3196.ts
+#EXTINF:-1,UK: Sky Sports 5
+http://87.120.36.166:80/live/test2017/test2017/2451.ts
+#EXTINF:-1,UK: SKY SPORT MIX HD
+http://87.120.36.166:80/live/test2017/test2017/3197.ts
+#EXTINF:-1,SKY SPORT 1 HD
+http://p4.giffy.be:8080/live/coke123/coke123/30065.ts
+#EXTINF:-1,SKY SPORT 2 HD
+http://p4.giffy.be:8080/live/coke123/coke123/30066.ts
+#EXTINF:-1,SKY SPORT NEWS.
+http://p4.giffy.be:8080/live/coke123/coke123/30075.ts
+#EXTINF:-1,SKY FOOTBALL
+http://p4.giffy.be:8080/live/coke123/coke123/28297.ts
+#EXTINF:-1,BT SPORTS 1 HD
+http://p4.giffy.be:8080/live/coke123/coke123/21736.ts
+#EXTINF:-1,BT SPORTS 2 HD
+http://p4.giffy.be:8080/live/coke123/coke123/21735.ts
+#EXTINF:-1,BT SPORTS 3 HD
+http://p4.giffy.be:8080/live/coke123/coke123/21734.ts
+#EXTINF:-1,SKY SPORT MAIN EVENT
+http://p4.giffy.be:8080/live/coke123/coke123/21743.ts
+#EXTINF:-1,SKY SPORTS CRICKET
+http://p4.giffy.be:8080/live/coke123/coke123/21742.ts
+#EXTINF:-1,SKY SPORTS ACTION
+http://p4.giffy.be:8080/live/coke123/coke123/21741.ts
+#EXTINF:-1,SKY SPORTS GOLF
+http://p4.giffy.be:8080/live/coke123/coke123/21740.ts
+#EXTINF:-1,SKY SPORT SKY PREMIER LEAGUE
+http://p4.giffy.be:8080/live/coke123/coke123/21739.ts
+#EXTINF:-1,SKY SPORT F1 HD
+http://p4.giffy.be:8080/live/coke123/coke123/21738.ts

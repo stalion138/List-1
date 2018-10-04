@@ -17,24 +17,12 @@ http://iptvdirecto.com:8000/live/marcelo/marcelo/10351.ts
 http://iptvdirecto.com:8000/live/marcelo/marcelo/10350.ts
 #EXTINF:-1 tvg-id="10349" tvg-name="UK: Sky Sports 4 HD 1080p" tvg-logo="" group-title="UK",UK: Sky Sports 4 HD 1080p
 http://iptvdirecto.com:8000/live/marcelo/marcelo/10349.ts
-#EXTINF:-1,Us- Bein Sports
-http://194.88.107.95:6204/live/Abas/Abas/10646.ts
-#EXTINF:-1,Us- Fox sport 1 HD
-http://194.88.107.95:6204/live/Abas/Abas/10416.ts
-#EXTINF:-1,Us- Fox sport 2 HD
-http://194.88.107.95:6204/live/Abas/Abas/10415.ts
-#EXTINF:-1,Us- NBCSN HD
-http://194.88.107.95:6204/live/Abas/Abas/10398.ts
-#EXTINF:-1,Us- TSN 1 HD
-http://194.88.107.95:6204/live/Abas/Abas/10636.ts
-#EXTINF:-1,Us- TSN 2 HD
-http://194.88.107.95:6204/live/Abas/Abas/10635.ts
-#EXTINF:-1,Us- TSN 3 HD
-http://194.88.107.95:6204/live/Abas/Abas/10634.ts
-#EXTINF:-1,Us- TSN 4 HD
-http://194.88.107.95:6204/live/Abas/Abas/10633.ts
-#EXTINF:-1,Us- TSN 5 HD
-http://194.88.107.95:6204/live/Abas/Abas/10632.ts
+#EXTINF:-1,Uk- Sky Eir Sport 1
+http://194.88.107.95:6204/live/Abas/Abas/11118.ts
+#EXTINF:-1,Uk- Sky Eir Sport 2
+http://194.88.107.95:6204/live/Abas/Abas/11117.ts
+#EXTINF:-1,Uk- Sky YourTV HD
+http://194.88.107.95:6204/live/Abas/Abas/11114.ts
 #EXTINF:-1,Uk- Sky Sport Football
 http://194.88.107.95:6204/live/Abas/Abas/8523.ts
 #EXTINF:-1,Uk- Sky Sports Main Event HD
@@ -51,41 +39,17 @@ http://194.88.107.95:6204/live/Abas/Abas/8513.ts
 http://194.88.107.95:6204/live/Abas/Abas/8512.ts
 #EXTINF:-1,Uk- Sky Sports F1 HD Backup S
 http://194.88.107.95:6204/live/Abas/Abas/11099.ts
-#EXTINF:-1,BEIN SPORTS 1
-https://185-8-178-138.livesports24.online/beinsportsturkey1.m3u8
-#EXTINF:-1,BEIN SPORTS 1_2
-http://ollocdn.online/ollomobananinamioc/601/playlist.m3u8
-#EXTINF:-1,BEIN SPORTS 2
-https://185-8-178-138.livesports24.online/beinsportsturkey2.m3u8
-#EXTINF:-1,BEIN SPORTS 2_2
-http://ollocdn.online/ollomobananinamioc/602/playlist.m3u8
-#EXTINF:-1,BEIN SPORTS 3
-https://185-8-178-138.livesports24.online/beinsportsturkey3.m3u8
-#EXTINF:-1,BEIN SPORTS 3_2
-http://ollocdn.online/ollomobananinamioc/603/playlist.m3u8
-#EXTINF:-1,BEIN SPORT 4
-http://ollocdn.online/ollomobananinamioc/604/playlist.m3u8
-#EXTINF:-1,BEIN SPORT MAX 1
-http://ollocdn.online/ollomobananinamioc/805/playlist.m3u8
-#EXTINF:-1,BEIN SPORT MAX 2
-http://ollocdn.online/ollomobananinamioc/806/playlist.m3u8
-#EXTINF:-1,Bein Sports 1 hd
-http://dafsports.ddns.net:86/live/pro/18/42.ts
-#EXTINF:-1,Bein Sports 2 hd
-http://dafsports.ddns.net:86/live/pro/18/43.ts
-#EXTINF:-1,Bein Sports 3 hd
-http://dafsports.ddns.net:86/live/pro/18/44.ts
-#EXTINF:-1,Bein Sports 4 hd
-http://dafsports.ddns.net:86/live/pro/18/45.ts
-#EXTINF:-1,Bein Sports 5 hd
-http://dafsports.ddns.net:86/live/pro/18/46.ts
-#EXTINF:-1,Bein Sports 6 hd
-http://dafsports.ddns.net:86/live/pro/18/47.ts
-#EXTINF:-1,Bein Sports 7 hd
-http://dafsports.ddns.net:86/live/pro/18/48.ts
-#EXTINF:-1,Bein Sports 8 hd
-http://dafsports.ddns.net:86/live/pro/18/49.ts
-#EXTINF:-1,Bein Sports 9 hd
-http://dafsports.ddns.net:86/live/pro/18/50.ts
-#EXTINF:-1,Bein Sports 10 hd
-http://dafsports.ddns.net:86/live/pro/18/51.ts
+#EXTINF:-1,Uk- Sky Sports MixHD
+http://194.88.107.95:6204/live/Abas/Abas/8511.ts
+#EXTINF:-1,Uk- Sky Travel Channel
+http://194.88.107.95:6204/live/Abas/Abas/8508.ts
+#EXTINF:-1,Uk- Sky True Movies 1
+http://194.88.107.95:6204/live/Abas/Abas/8510.ts
+#EXTINF:-1,Uk- Sky True Movies 2
+http://194.88.107.95:6204/live/Abas/Abas/8509.ts
+#EXTINF:-1,UK- Sky Sports Arena HD
+http://194.88.107.95:6204/live/Abas/Abas/9059.ts
+#EXTINF:-1,Uk- Sky BT Sport 3 HD
+http://194.88.107.95:6204/live/Abas/Abas/10166.ts
+#EXTINF:-1,Uk- 24B Music HD
+http://194.88.107.95:6204/live/Abas/Abas/9855.ts

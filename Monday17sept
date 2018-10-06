@@ -1,158 +1,103 @@
 #EXTM3U
-#EXTINF:-1,UK | BT Sport 3
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/1464.ts
-#EXTINF:-1,UK | Mtv Classic
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/1463.ts
 #EXTINF:-1,UK | BT SPORT 1
 http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/1466.ts
 #EXTINF:-1,UK | BT SPORT 2
 http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/1465.ts
-http://tvla.xyz:25461/live/Georiveros772@gmail.com/9hYs4mCEPd/1134.ts
-#EXTINF:-1,ESPN HD [USA]
-http://tvla.xyz:25461/live/Georiveros772@gmail.com/9hYs4mCEPd/1133.ts
-#EXTINF:-1,ESPN News HD [USA]
-http://tvla.xyz:25461/live/Georiveros772@gmail.com/9hYs4mCEPd/1132.ts
-#EXTINF:-1,ESPN U HD [USA]
-http://tvla.xyz:25461/live/Georiveros772@gmail.com/9hYs4mCEPd/1131.ts
-#EXTINF:-1,Canal F1 HD
-http://tvla.xyz:25461/live/Georiveros772@gmail.com/9hYs4mCEPd/3499.ts
-#EXTINF:-1,WWE HD
-http://tvla.xyz:25461/live/Georiveros772@gmail.com/9hYs4mCEPd/3516.ts
-#EXTINF:-1,Sky Sports 1 HD 1080p
-http://tvla.xyz:25461/live/Georiveros772@gmail.com/9hYs4mCEPd/3506.ts
-#EXTINF:-1,Sky Sports 2 HD 1080p
-http://tvla.xyz:25461/live/Georiveros772@gmail.com/9hYs4mCEPd/3505.ts
-#EXTINF:-1,Sky Sports 3 HD 1080p
-http://tvla.xyz:25461/live/Georiveros772@gmail.com/9hYs4mCEPd/3504.ts
-#EXTINF:-1,Sky Sports 4 HD 1080p
-http://tvla.xyz:25461/live/Georiveros772@gmail.com/9hYs4mCEPd/3503.ts
-#EXTINF:-1,Sky Sports 5 HD 1080p
-http://tvla.xyz:25461/live/Georiveros772@gmail.com/9hYs4mCEPd/3502.ts
-#EXTINF:-1,Sky Sports F1 HD 1080p
-http://tvla.xyz:25461/live/Georiveros772@gmail.com/9hYs4mCEPd/3501.ts
-#EXTINF:-1,Sky Sports News HD 1080p
-http://tvla.xyz:25461/live/Georiveros772@gmail.com/9hYs4mCEPd/3500.ts
-#EXTINF:-1,Bein Sports HD [USA]
-http://tvla.xyz:25461/live/Georiveros772@gmail.com/9hYs4mCEPd/1154.ts
-#EXTINF:-1,UK | GLOBAL
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/1460.ts
-#EXTINF:-1,UK | Mtv Base
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/1462.ts
 #EXTINF:-1,UK | Sky Sports Cricket FHD
 http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/1459.ts
-#EXTINF:-1,UK | Sky Sports Premier League FHD
+#EXTINF:-1,UK |  Sky Sports Premier League FHD
 http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/1454.ts
 #EXTINF:-1,UK | Sky Sports F1 FHD
 http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/1457.ts
 #EXTINF:-1,UK | SKY SPORTS 3 HD
 http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/1456.ts
-#EXTINF:-1,UK | SKY SPORTS 4 HD
+#EXTINF:-1,iptv4sat.com UK | SKY SPORTS 4 HD
 http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/1455.ts
 #EXTINF:-1,UK | Sky Sports Arena FHD
 http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/1458.ts
-#EXTINF:-1,UK | BT Sports ESPN FHD
+#EXTINF:-1,UK |  BT Sports ESPN FHD
 http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/1461.ts
-#EXTINF:-1 tvg-id="UK-407 SkySp Action" tvg-name="Sport-UK: Sky Sports Action" tvg-logo="" group-title="Sports",Sport-UK: Sky Sports Action
-http://portals.enjoy-iptv.com:8080/live/nAPdVKxlNM/jWyRb8d0Zi/48940.ts
-#EXTINF:-1 tvg-id="UK-407 SkySp Action" tvg-name="Sport-UK: Sky Sports Action FHD" tvg-logo="" group-title="Sports",Sport-UK: Sky Sports Action FHD
-http://portals.enjoy-iptv.com:8080/live/nAPdVKxlNM/jWyRb8d0Zi/48939.ts
-#EXTINF:-1 tvg-id="UK-407 SkySp Action" tvg-name="Sport-UK: Sky Sports Action HD" tvg-logo="" group-title="Sports",Sport-UK: Sky Sports Action HD
-http://portals.enjoy-iptv.com:8080/live/nAPdVKxlNM/jWyRb8d0Zi/48941.ts
-#EXTINF:-1 tvg-id="UK-408 SkySp Arena" tvg-name="Sport-UK: Sky Sports Arena" tvg-logo="" group-title="Sports",Sport-UK: Sky Sports Arena
-http://portals.enjoy-iptv.com:8080/live/nAPdVKxlNM/jWyRb8d0Zi/48937.ts
-#EXTINF:-1 tvg-id="UK-408 SkySp Arena" tvg-name="Sport-UK: Sky Sports Arena FHD" tvg-logo="" group-title="Sports",Sport-UK: Sky Sports Arena FHD
-http://portals.enjoy-iptv.com:8080/live/nAPdVKxlNM/jWyRb8d0Zi/48936.ts
-#EXTINF:-1 tvg-id="UK-408 SkySp Arena" tvg-name="Sport-UK: Sky Sports Arena HD" tvg-logo="" group-title="Sports",Sport-UK: Sky Sports Arena HD
-http://portals.enjoy-iptv.com:8080/live/nAPdVKxlNM/jWyRb8d0Zi/48938.ts
-#EXTINF:-1 tvg-id="UK-404 SkySpCricket" tvg-name="Sport-UK: Sky Sports Cricket" tvg-logo="" group-title="Sports",Sport-UK: Sky Sports Cricket
-http://portals.enjoy-iptv.com:8080/live/nAPdVKxlNM/jWyRb8d0Zi/48934.ts
-#EXTINF:-1 tvg-id="UK-404 SkySpCricket" tvg-name="Sport-UK: Sky Sports Cricket FHD" tvg-logo="" group-title="Sports",Sport-UK: Sky Sports Cricket FHD
-http://portals.enjoy-iptv.com:8080/live/nAPdVKxlNM/jWyRb8d0Zi/48933.ts
-#EXTINF:-1 tvg-id="UK-404 SkySpCricket" tvg-name="Sport-UK: Sky Sports Cricket HD" tvg-logo="" group-title="Sports",Sport-UK: Sky Sports Cricket HD
-http://portals.enjoy-iptv.com:8080/live/nAPdVKxlNM/jWyRb8d0Zi/48935.ts
-#EXTINF:-1 tvg-id="UK-406 SkySp F1" tvg-name="Sport-UK: Sky Sports F1" tvg-logo="" group-title="Sports",Sport-UK: Sky Sports F1
-http://portals.enjoy-iptv.com:8080/live/nAPdVKxlNM/jWyRb8d0Zi/48932.ts
-#EXTINF:-1 tvg-id="UK-406 SkySp F1" tvg-name="Sport-UK: Sky Sports F1 FHD" tvg-logo="" group-title="Sports",Sport-UK: Sky Sports F1 FHD
-http://portals.enjoy-iptv.com:8080/live/nAPdVKxlNM/jWyRb8d0Zi/48931.ts
-#EXTINF:-1 tvg-id="UK-403 SkySp Fball" tvg-name="Sport-UK: Sky Sports Football FHD" tvg-logo="" group-title="Sports",Sport-UK: Sky Sports Football FHD
-http://portals.enjoy-iptv.com:8080/live/nAPdVKxlNM/jWyRb8d0Zi/48929.ts
-#EXTINF:-1 tvg-id="UK-403 SkySp Fball" tvg-name="Sport-UK: Sky Sports Football HD" tvg-logo="" group-title="Sports",Sport-UK: Sky Sports Football HD
-http://portals.enjoy-iptv.com:8080/live/nAPdVKxlNM/jWyRb8d0Zi/48928.ts
-#EXTINF:-1 tvg-id="UK-403 SkySp Fball" tvg-name="Sport-UK: Sky Sports Football SD" tvg-logo="" group-title="Sports",Sport-UK: Sky Sports Football SD
-http://portals.enjoy-iptv.com:8080/live/nAPdVKxlNM/jWyRb8d0Zi/48930.ts
-#EXTINF:-1 tvg-id="UK-405 SkySp Golf" tvg-name="Sport-UK: Sky Sports Golf" tvg-logo="" group-title="Sports",Sport-UK: Sky Sports Golf
-http://portals.enjoy-iptv.com:8080/live/nAPdVKxlNM/jWyRb8d0Zi/48927.ts
-#EXTINF:-1 tvg-id="UK-405 SkySp Golf" tvg-name="Sport-UK: Sky Sports Golf FHD" tvg-logo="" group-title="Sports",Sport-UK: Sky Sports Golf FHD
-http://portals.enjoy-iptv.com:8080/live/nAPdVKxlNM/jWyRb8d0Zi/48926.ts
-#EXTINF:-1 tvg-id="UK-405 SkySp Golf" tvg-name="Sport-UK: Sky Sports Golf HD" tvg-logo="" group-title="Sports",Sport-UK: Sky Sports Golf HD
-http://portals.enjoy-iptv.com:8080/live/nAPdVKxlNM/jWyRb8d0Zi/48925.ts
-#EXTINF:-1 tvg-id="UK-401 SkySpMainEv" tvg-name="Sport-UK: Sky Sports Main Event FHD" tvg-logo="" group-title="Sports",Sport-UK: Sky Sports Main Event FHD
-http://portals.enjoy-iptv.com:8080/live/nAPdVKxlNM/jWyRb8d0Zi/48923.ts
-#EXTINF:-1 tvg-id="UK-401 SkySpMainEv" tvg-name="Sport-UK: Sky Sports Main Event HD" tvg-logo="" group-title="Sports",Sport-UK: Sky Sports Main Event HD
-http://portals.enjoy-iptv.com:8080/live/nAPdVKxlNM/jWyRb8d0Zi/48922.ts
-#EXTINF:-1 tvg-id="UK-401 SkySpMainEv" tvg-name="Sport-UK: Sky Sports Main Event SD" tvg-logo="" group-title="Sports",Sport-UK: Sky Sports Main Event SD
-http://portals.enjoy-iptv.com:8080/live/nAPdVKxlNM/jWyRb8d0Zi/48924.ts
-#EXTINF:-1 tvg-id="UK-121 SkySp Mix" tvg-name="Sport-UK: Sky Sports Mix FHD" tvg-logo="" group-title="Sports",Sport-UK: Sky Sports Mix FHD
-http://portals.enjoy-iptv.com:8080/live/nAPdVKxlNM/jWyRb8d0Zi/48921.ts
-#EXTINF:-1 tvg-id="UK-121 SkySp Mix" tvg-name="Sport-UK: Sky Sports Mix HD" tvg-logo="" group-title="Sports",Sport-UK: Sky Sports Mix HD
-http://portals.enjoy-iptv.com:8080/live/nAPdVKxlNM/jWyRb8d0Zi/48920.ts
-#EXTINF:-1 tvg-id="UK-409 SkySp News" tvg-name="Sport-UK: Sky Sports News" tvg-logo="" group-title="Sports",Sport-UK: Sky Sports News
-http://portals.enjoy-iptv.com:8080/live/nAPdVKxlNM/jWyRb8d0Zi/48918.ts
-#EXTINF:-1 tvg-id="UK-409 SkySp News" tvg-name="Sport-UK: Sky Sports News FHD" tvg-logo="" group-title="Sports",Sport-UK: Sky Sports News FHD
-http://portals.enjoy-iptv.com:8080/live/nAPdVKxlNM/jWyRb8d0Zi/48919.ts
-#EXTINF:-1 tvg-id="UK-402 SkySp PL" tvg-name="Sport-UK: Sky Sports Premier League" tvg-logo="" group-title="Sports",Sport-UK: Sky Sports Premier League
-http://portals.enjoy-iptv.com:8080/live/nAPdVKxlNM/jWyRb8d0Zi/48917.ts
-#EXTINF:-1 tvg-id="UK-402 SkySp PL" tvg-name="Sport-UK: Sky Sports Premier League FHD" tvg-logo="" group-title="Sports",Sport-UK: Sky Sports Premier League FHD
-http://portals.enjoy-iptv.com:8080/live/nAPdVKxlNM/jWyRb8d0Zi/48916.ts
-#EXTINF:-1 tvg-id="UK-402 SkySp PL" tvg-name="Sport-UK: Sky Sports Premier League HD" tvg-logo="" group-title="Sports",Sport-UK: Sky Sports Premier League HD
-http://portals.enjoy-iptv.com:8080/live/nAPdVKxlNM/jWyRb8d0Zi/48915.ts
-#EXTINF:-1 tvg-id="" tvg-name="AZ: CBC Sport HD" tvg-logo="" group-title="Sports",AZ: CBC Sport HD
-http://portals.enjoy-iptv.com:8080/live/nAPdVKxlNM/jWyRb8d0Zi/48975.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sport-DE: DAZN Bar 1 HD" tvg-logo="" group-title="Sports",Sport-DE: DAZN Bar 1 HD
-http://portals.enjoy-iptv.com:8080/live/nAPdVKxlNM/jWyRb8d0Zi/49104.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sport-DE: DAZN Bar 2 HD" tvg-logo="" group-title="Sports",Sport-DE: DAZN Bar 2 HD
-http://portals.enjoy-iptv.com:8080/live/nAPdVKxlNM/jWyRb8d0Zi/49115.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sport-IT: DAZN SPORT 1" tvg-logo="" group-title="Sports",Sport-IT: DAZN SPORT 1
-http://portals.enjoy-iptv.com:8080/live/nAPdVKxlNM/jWyRb8d0Zi/49283.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sport-IT: DAZN SPORT 2" tvg-logo="" group-title="Sports",Sport-IT: DAZN SPORT 2
-http://portals.enjoy-iptv.com:8080/live/nAPdVKxlNM/jWyRb8d0Zi/49284.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sport-IT: DAZN SPORT 3" tvg-logo="" group-title="Sports",Sport-IT: DAZN SPORT 3
-http://portals.enjoy-iptv.com:8080/live/nAPdVKxlNM/jWyRb8d0Zi/49761.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sport-IT: DAZN SPORT 4" tvg-logo="" group-title="Sports",Sport-IT: DAZN SPORT 4
-http://portals.enjoy-iptv.com:8080/live/nAPdVKxlNM/jWyRb8d0Zi/49760.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sport-IT: DAZN SPORT 5" tvg-logo="" group-title="Sports",Sport-IT: DAZN SPORT 5
-http://portals.enjoy-iptv.com:8080/live/nAPdVKxlNM/jWyRb8d0Zi/49759.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sport-IT: DAZN SPORT 6" tvg-logo="" group-title="Sports",Sport-IT: DAZN SPORT 6
-http://portals.enjoy-iptv.com:8080/live/nAPdVKxlNM/jWyRb8d0Zi/49758.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sport-IT: DAZN SPORT 7" tvg-logo="" group-title="Sports",Sport-IT: DAZN SPORT 7
-http://portals.enjoy-iptv.com:8080/live/nAPdVKxlNM/jWyRb8d0Zi/49757.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sport-IT: DAZN SPORT 8" tvg-logo="" group-title="Sports",Sport-IT: DAZN SPORT 8
-http://portals.enjoy-iptv.com:8080/live/nAPdVKxlNM/jWyRb8d0Zi/49756.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sport-IT: DAZN SPORT 9" tvg-logo="" group-title="Sports",Sport-IT: DAZN SPORT 9
-http://portals.enjoy-iptv.com:8080/live/nAPdVKxlNM/jWyRb8d0Zi/49755.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sport-IT: DAZN SPORT 10" tvg-logo="" group-title="Sports",Sport-IT: DAZN SPORT 10
-http://portals.enjoy-iptv.com:8080/live/nAPdVKxlNM/jWyRb8d0Zi/49754.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sport-IT: DAZN SPORT 11" tvg-logo="" group-title="Sports",Sport-IT: DAZN SPORT 11
-http://portals.enjoy-iptv.com:8080/live/nAPdVKxlNM/jWyRb8d0Zi/49765.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sport-IT: DAZN SPORT 12" tvg-logo="" group-title="Sports",Sport-IT: DAZN SPORT 12
-http://portals.enjoy-iptv.com:8080/live/nAPdVKxlNM/jWyRb8d0Zi/49764.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sport-IT: DAZN SPORT 13" tvg-logo="" group-title="Sports",Sport-IT: DAZN SPORT 13
-http://portals.enjoy-iptv.com:8080/live/nAPdVKxlNM/jWyRb8d0Zi/49763.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sport-IT: DAZN SPORT 14" tvg-logo="" group-title="Sports",Sport-IT: DAZN SPORT 14
-http://portals.enjoy-iptv.com:8080/live/nAPdVKxlNM/jWyRb8d0Zi/49762.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sport-PT: ELEVEN SPORTS 1 HD" tvg-logo="http://190.2.139.105/picon/sportptelevensports1hd.png" group-title="Sports",Sport-PT: ELEVEN SPORTS 1 HD
-http://portals.enjoy-iptv.com:8080/live/nAPdVKxlNM/jWyRb8d0Zi/49121.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sport-PT: ELEVEN SPORTS 2 HD" tvg-logo="" group-title="Sports",Sport-PT: ELEVEN SPORTS 2 HD
-http://portals.enjoy-iptv.com:8080/live/nAPdVKxlNM/jWyRb8d0Zi/49120.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sport-PT: ELEVEN SPORTS 3 HD" tvg-logo="" group-title="Sports",Sport-PT: ELEVEN SPORTS 3 HD
-http://portals.enjoy-iptv.com:8080/live/nAPdVKxlNM/jWyRb8d0Zi/49119.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sport-PT: ELEVEN SPORTS 4 HD" tvg-logo="" group-title="Sports",Sport-PT: ELEVEN SPORTS 4 HD
-http://portals.enjoy-iptv.com:8080/live/nAPdVKxlNM/jWyRb8d0Zi/49118.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sport-PT: ELEVEN SPORTS 5 HD" tvg-logo="" group-title="Sports",Sport-PT: ELEVEN SPORTS 5 HD
-http://portals.enjoy-iptv.com:8080/live/nAPdVKxlNM/jWyRb8d0Zi/49117.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sport-PT: ELEVEN SPORTS 6 HD" tvg-logo="" group-title="Sports",Sport-PT: ELEVEN SPORTS 6 HD
-http://portals.enjoy-iptv.com:8080/live/nAPdVKxlNM/jWyRb8d0Zi/49116.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sport-TR: BEIN SPORTS MAX 1 FHD" tvg-logo="" group-title="Turkey",Sport-TR: BEIN SPORTS MAX 1 FHD
-http://portals.enjoy-iptv.com:8080/live/nAPdVKxlNM/jWyRb8d0Zi/49215.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sport-TR: BEIN SPORTS MAX 2 FHD" tvg-logo="" group-title="Turkey",Sport-TR: BEIN SPORTS MAX 2 FHD
-http://portals.enjoy-iptv.com:8080/live/nAPdVKxlNM/jWyRb8d0Zi/49214.ts
+#EXTINF:-1,Sky Sports Action FHD
+http://plextreamiptv.net:80/live/mine/mine/1641.m3u8
+#EXTINF:-1,Sky Sports Action HD
+http://plextreamiptv.net:80/live/mine/mine/1640.m3u8
+#EXTINF:-1,Sky Sports Action
+http://plextreamiptv.net:80/live/mine/mine/1639.m3u8
+#EXTINF:-1,Sky Sports Arena FHD
+http://plextreamiptv.net:80/live/mine/mine/1638.m3u8
+#EXTINF:-1,Sky Sports Arena HD
+http://plextreamiptv.net:80/live/mine/mine/1637.m3u8
+#EXTINF:-1,Sky Sports Arena
+http://plextreamiptv.net:80/live/mine/mine/1636.m3u8
+#EXTINF:-1,Sky Sports Cricket FHD
+http://plextreamiptv.net:80/live/mine/mine/1635.m3u8
+#EXTINF:-1,www.iptv4sat.com Sky Sports Cricket HD
+http://plextreamiptv.net:80/live/mine/mine/1634.m3u8
+#EXTINF:-1,Sky Sports Cricket
+http://plextreamiptv.net:80/live/mine/mine/1633.m3u8
+#EXTINF:-1,Sky Sports F1 FHD
+http://plextreamiptv.net:80/live/mine/mine/1632.m3u8
+#EXTINF:-1,Sky Sports F1 HD
+http://plextreamiptv.net:80/live/mine/mine/1631.m3u8
+#EXTINF:-1,ITV Box Office HD
+http://plextreamiptv.net:80/live/mine/mine/1645.m3u8
+#EXTINF:-1,Sky Sports News FHD
+http://plextreamiptv.net:80/live/mine/mine/1644.m3u8
+#EXTINF:-1,Sky Sports News HD
+http://plextreamiptv.net:80/live/mine/mine/1643.m3u8
+#EXTINF:-1,Sky Sports News
+http://plextreamiptv.net:80/live/mine/mine/1642.m3u8
+#EXTINF:-1,Sky Sports Action FHD
+http://plextreamiptv.net:80/live/mine/mine/1641.m3u8
+#EXTINF:-1,Sky Sports Action HD
+http://plextreamiptv.net:80/live/mine/mine/1640.m3u8
+#EXTINF:-1,Sky Sports Action
+http://plextreamiptv.net:80/live/mine/mine/1639.m3u8
+#EXTINF:-1,Sky Sports Arena FHD
+http://plextreamiptv.net:80/live/mine/mine/1638.m3u8
+#EXTINF:-1,Sky Sports Arena HD
+http://plextreamiptv.net:80/live/mine/mine/1637.m3u8
+#EXTINF:-1,Sky Sports Arena
+http://plextreamiptv.net:80/live/mine/mine/1636.m3u8
+#EXTINF:-1,Sky Sports Cricket FHD
+http://plextreamiptv.net:80/live/mine/mine/1635.m3u8
+#EXTINF:-1,www.iptv4sat.com Sky Sports Cricket HD
+http://plextreamiptv.net:80/live/mine/mine/1634.m3u8
+#EXTINF:-1,Sky Sports Cricket
+http://plextreamiptv.net:80/live/mine/mine/1633.m3u8
+#EXTINF:-1,Sky Sports F1 FHD
+http://plextreamiptv.net:80/live/mine/mine/1632.m3u8
+#EXTINF:-1,Sky Sports F1 HD
+http://plextreamiptv.net:80/live/mine/mine/1631.m3u8
+#EXTINF:-1,Sky Sports F1 iptv4sat.com
+http://plextreamiptv.net:80/live/mine/mine/1630.m3u8
+#EXTINF:-1,Sky Sports Football FHD
+http://plextreamiptv.net:80/live/mine/mine/1629.m3u8
+#EXTINF:-1,Sky Sports Football HD
+http://plextreamiptv.net:80/live/mine/mine/1628.m3u8
+#EXTINF:-1,Sky Sports Football
+http://plextreamiptv.net:80/live/mine/mine/1627.m3u8
+#EXTINF:-1,Sky Sports Golf FHD
+http://plextreamiptv.net:80/live/mine/mine/1626.m3u8
+#EXTINF:-1,Sky Sports Golf HD
+http://plextreamiptv.net:80/live/mine/mine/1625.m3u8
+#EXTINF:-1,Sky Sports Golf
+http://plextreamiptv.net:80/live/mine/mine/1624.m3u8
+#EXTINF:-1,Sky Sports Main Event FHD
+http://plextreamiptv.net:80/live/mine/mine/1623.m3u8
+#EXTINF:-1,Sky Sports Main Event HD
+http://plextreamiptv.net:80/live/mine/mine/1622.m3u8
+#EXTINF:-1,Sky Sports Main Event
+http://plextreamiptv.net:80/live/mine/mine/1621.m3u8
+#EXTINF:-1,Sky Sports Mix FHD
+http://plextreamiptv.net:80/live/mine/mine/1620.m3u8
+#EXTINF:-1,Sky Sports Mix HD
+http://plextreamiptv.net:80/live/mine/mine/1619.m3u8
+#EXTINF:-1,Sky Sports Mix
+http://plextreamiptv.net:80/live/mine/mine/1618.m3u8
+#EXTINF:-1,Sky Sports Premier League FHD
+http://plextreamiptv.net:80/live/mine/mine/1617.m3u8
+#EXTINF:-1,Sky Sports Premier League HD
+http://plextreamiptv.net:80/live/mine/mine/1616.m3u8
+#EXTINF:-1,Sky Sports Premier League
+http://plextreamiptv.net:80/live/mine/mine/1615.m3u8

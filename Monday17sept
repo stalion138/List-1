@@ -1,112 +1,31 @@
 #EXTM3U
-#EXTINF:-1,SKY SPORTS PREMIER LEAGUE FHD
-
-http://54.36.160.2:8080/live/nawaz/nawaz1/47037.ts
-
-#EXTINF:-1,SKY SPORTS PREMIER LEAGUE HD
-
-http://54.36.160.2:8080/live/nawaz/nawaz1/47026.ts
-
-#EXTINF:-1,SKY SPORTS PREMIER LEAGUE
-
-http://54.36.160.2:8080/live/nawaz/nawaz1/57177.ts
-
-#EXTINF:-1,SKY SPORTS ARENA FHD
-
-http://54.36.160.2:8080/live/nawaz/nawaz1/58954.ts
-
-#EXTINF:-1,SKY SPORTS ARENA HD
-
-http://54.36.160.2:8080/live/nawaz/nawaz1/58508.ts
-
-#EXTINF:-1,SKY SPORTS ARENA
-
-http://54.36.160.2:8080/live/nawaz/nawaz1/58953.ts
-
-#EXTINF:-1,SKY SPORTS FOOTBALL HD
-
-http://54.36.160.2:8080/live/nawaz/nawaz1/58507.ts
-
-#EXTINF:-1,SKY SPORTS FOOTBALL FHD
-
-http://54.36.160.2:8080/live/nawaz/nawaz1/58952.ts
-
-#EXTINF:-1,SKY SPORTS FOOTBALL
-
-http://54.36.160.2:8080/live/nawaz/nawaz1/58951.ts
-
-#EXTINF:-1,SKY SPORTS F1 FHD
-
-http://54.36.160.2:8080/live/nawaz/nawaz1/47036.ts
-
-#EXTINF:-1,SKY SPORTS F1 HD
-
-http://54.36.160.2:8080/live/nawaz/nawaz1/47025.ts
-
-#EXTINF:-1,SKY SPORTS F1
-
-http://54.36.160.2:8080/live/nawaz/nawaz1/57163.ts
-
-#EXTINF:-1,SKY SPORTS MIX HD
-
-http://54.36.160.2:8080/live/nawaz/nawaz1/57324.ts
-
-#EXTINF:-1,BT SPORTS 1 FHD
-
-http://54.36.160.2:8080/live/nawaz/nawaz1/47034.ts
-
-#EXTINF:-1,BT SPORTS 1 HD
-
-http://54.36.160.2:8080/live/nawaz/nawaz1/47024.ts
-
-#EXTINF:-1,BT SPORTS 1
-
-http://54.36.160.2:8080/live/nawaz/nawaz1/57175.ts
-
-#EXTINF:-1,BT SPORTS 2 FHD
-
-http://54.36.160.2:8080/live/nawaz/nawaz1/47033.ts
-
-#EXTINF:-1,BT SPORTS 2 HD
-
-http://54.36.160.2:8080/live/nawaz/nawaz1/47023.ts
-
-#EXTINF:-1,BT SPORTS 2
-
-http://54.36.160.2:8080/live/nawaz/nawaz1/57174.ts
-
-#EXTINF:-1,BT SPORTS 3 FHD
-
-http://54.36.160.2:8080/live/nawaz/nawaz1/47032.ts
-
-#EXTINF:-1,BT SPORTS 3 HD
-
-http://54.36.160.2:8080/live/nawaz/nawaz1/47022.ts
-
-#EXTINF:-1,BT SPORTS 3
-
-http://54.36.160.2:8080/live/nawaz/nawaz1/57173.ts
-
-#EXTINF:-1,BT ESPN HD
-
-http://54.36.160.2:8080/live/nawaz/nawaz1/47031.ts
-
-#EXTINF:-1,BT SPORTS EXTRA 1
-
-http://54.36.160.2:8080/live/nawaz/nawaz1/57171.ts
-
-#EXTINF:-1,PREMIER SPORTS HD
-
-http://54.36.160.2:8080/live/nawaz/nawaz1/57319.ts
-
-#EXTINF:-1,PREMIER SPORTS.
-
-http://54.36.160.2:8080/live/nawaz/nawaz1/57161.ts
-
-#EXTINF:-1,RACING UK HD
-
-http://54.36.160.2:8080/live/nawaz/nawaz1/57318.ts
-
-#EXTINF:-1,RACING UK.
-
-http://54.36.160.2:8080/live/nawaz/nawaz1/57162.ts
+#EXTINF:-1,US_TSN 1
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/2248.ts
+#EXTINF:-1,US_TSN 2
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/2249.ts
+#EXTINF:-1,US_TSN 3
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/2250.ts
+#EXTINF:-1,US_TSN 4
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/2251.ts
+#EXTINF:-1,US_TSN 5
+http://w.bs-share.com:8000/live/arab.iptv.server/mzjPw91KQu/2252.ts
+#EXTINF:-1,|CA| Golf channel
+http://world-ipsat.com:1155/live/aga1/aga/2078.ts
+#EXTINF:-1,|CA|  Golf channel
+http://world-ipsat.com:1155/live/aga1/aga/2679.ts
+#EXTINF:-1,[USA] TSN 1HD
+http://world-ipsat.com:1155/live/aga1/aga/1460.ts
+#EXTINF:-1,[USA] TSN 2HD
+http://world-ipsat.com:1155/live/aga1/aga/1459.ts
+#EXTINF:-1,[USA] TSN 3 HD
+http://world-ipsat.com:1155/live/aga1/aga/1456.ts
+#EXTINF:-1,[USA] TSN 4 HD
+http://world-ipsat.com:1155/live/aga1/aga/1455.ts
+#EXTINF:-1,[USA] TSN 5 HD
+http://world-ipsat.com:1155/live/aga1/aga/1454.ts
+#EXTINF:-1,Us- Fox sport 1 HD
+http://194.88.107.95:6204/live/Abas/Abas/10416.ts
+#EXTINF:-1,Us- Fox sport 2 HD
+http://194.88.107.95:6204/live/Abas/Abas/10415.ts
+#EXTINF:-1,Us- NBCSN HD
+http://194.88.107.95:6204/live/Abas/Abas/10398.ts

@@ -1,69 +1,71 @@
 #EXTM3U
-#EXTINF:-1,TSN SPORT 1
-http://nicke85.com:8000/live/l9GivGv2FY/dcrfdcrtgyhuo09o/6993.ts
-#EXTINF:-1,TSN SPORT 2
-http://nicke85.com:8000/live/l9GivGv2FY/dcrfdcrtgyhuo09o/6991.ts
-#EXTINF:-1,TSN SPORT 3
-http://nicke85.com:8000/live/l9GivGv2FY/dcrfdcrtgyhuo09o/6990.ts
-#EXTINF:-1,TSN SPORT 4
-http://nicke85.com:8000/live/l9GivGv2FY/dcrfdcrtgyhuo09o/7000.ts
-#EXTINF:-1,TSN SPORT 5
-http://nicke85.com:8000/live/l9GivGv2FY/dcrfdcrtgyhuo09o/7001.ts
-#EXTINF:-1,SKY SPORTS PREMIER LIGA HD (UK)
-http://nicke85.com:8000/live/l9GivGv2FY/dcrfdcrtgyhuo09o/5191.ts
-#EXTINF:-1,SKY SPORTS FOODBAL HD (UK)
-http://nicke85.com:8000/live/l9GivGv2FY/dcrfdcrtgyhuo09o/4828.ts
-#EXTINF:-1,SKY SPORTS MAIN EVENT HD (UK)
-http://nicke85.com:8000/live/l9GivGv2FY/dcrfdcrtgyhuo09o/12486.ts
-#EXTINF:-1,BT SPORT 1 HD (UK)
-http://nicke85.com:8000/live/l9GivGv2FY/dcrfdcrtgyhuo09o/5197.ts
-#EXTINF:-1,BT SPORT 2 HD (UK)
-http://nicke85.com:8000/live/l9GivGv2FY/dcrfdcrtgyhuo09o/6393.ts
-#EXTINF:-1,BT SPORT 3 HD (UK)
-http://nicke85.com:8000/live/l9GivGv2FY/dcrfdcrtgyhuo09o/6574.ts
-#EXTINF:-1,BT SPORT ESPN HD (UK)
-http://nicke85.com:8000/live/l9GivGv2FY/dcrfdcrtgyhuo09o/5891.ts
-#EXTINF:-1,SKY SPORTS NEWS HD (UK)
-http://nicke85.com:8000/live/l9GivGv2FY/dcrfdcrtgyhuo09o/4807.ts
-#EXTINF:-1,SKY SPORTS PREMIER LEAGUE HD
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/887.ts
-#EXTINF:-1,SKY SPORTS MAIN EVENT HD
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/883.ts
-#EXTINF:-1,BT SPORTS 1 HD
-http://163.172.26.197:8000/live/Buritv/Z5bQ7LCyZn/939.ts
-#EXTINF:-1,US: TSN 1 HD
-http://samrapro.com:7766/live/toloadbalan/gdfgdfg/14078.ts
-#EXTINF:-1,US: TSN 2 HD
-http://samrapro.com:7766/live/toloadbalan/gdfgdfg/14077.ts
-#EXTINF:-1,US: TSN 3 HD
-http://samrapro.com:7766/live/toloadbalan/gdfgdfg/14076.ts
-#EXTINF:-1,US: TSN 4 HD
-http://samrapro.com:7766/live/toloadbalan/gdfgdfg/14075.ts
-#EXTINF:-1,US: TSN 5 HD
-http://samrapro.com:7766/live/toloadbalan/gdfgdfg/14074.ts
-#EXTINF:-1,US: NBCSN
-http://samrapro.com:7766/live/toloadbalan/gdfgdfg/14093.ts
-#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="Sky Sports Main Event FHD UK" tvg-logo="" group-title="United Kingdom",Sky Sports Main Event FHD UK
-http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/15703.ts
-#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="Sky Sports Main Event HD UK" tvg-logo="http://pici.life/skysportsmainevet.png" group-title="United Kingdom",Sky Sports Main Event HD UK
-http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/7932.ts
-#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="Sky Sports Main Event UK" tvg-logo="http://pici.life/uk/SkySportsMainEvent.uk.png" group-title="United Kingdom",Sky Sports Main Event UK
-http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/53277.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Premier League FHD UK" tvg-logo="http://pici.life/uk/SkySportsPremiereLeague.uk.png" group-title="United Kingdom",Sky Sports Premier League FHD UK
-http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/7923.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Premier League HD UK" tvg-logo="http://pici.life/skysport1.png" group-title="United Kingdom",Sky Sports Premier League HD UK
-http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/7931.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Premier League UK" tvg-logo="https://pici.life/lg/UK/Sky%20Sports%20Premier%20League%20UK.png" group-title="United Kingdom",Sky Sports Premier League UK
-http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/15700.ts
-#EXTINF:-1,Us- TSN 1 HD
-http://194.88.107.101:6204/live/zanyar/zanyar/10636.ts
-#EXTINF:-1,Us- TSN 2 HD
-http://194.88.107.101:6204/live/zanyar/zanyar/10635.ts
-#EXTINF:-1,Us- TSN 3 HD
-http://194.88.107.101:6204/live/zanyar/zanyar/10634.ts
-#EXTINF:-1,Us- TSN 4 HD
-http://194.88.107.101:6204/live/zanyar/zanyar/10633.ts
-#EXTINF:-1,Us- TSN 5 HD
-http://194.88.107.101:6204/live/zanyar/zanyar/10632.ts
 #EXTINF:-1,Us- NBCSN HD
-http://194.88.107.101:6204/live/zanyar/zanyar/10398.ts
+http://194.88.107.95:6204/azmir/azmir/10398
+#EXTINF:-1,Us- TSN 1 HD
+http://194.88.107.95:6204/azmir/azmir/10636
+#EXTINF:-1,Us- TSN 2 HD
+http://194.88.107.95:6204/azmir/azmir/10635
+#EXTINF:-1,Us- TSN 3 HD
+http://194.88.107.95:6204/azmir/azmir/10634
+#EXTINF:-1,Us- TSN 4 HD
+http://194.88.107.95:6204/azmir/azmir/10633
+#EXTINF:-1,Us- TSN 5 HD
+http://194.88.107.95:6204/azmir/azmir/10632
+#EXTINF:0,SPORT: Sky Sports Action FHD
+http://landiptv.live:8080/EDGARDO/203040/128428
+#EXTINF:0,SPORT: Sky Sports Arena FHD
+http://landiptv.live:8080/EDGARDO/203040/93234
+#EXTINF:0,SPORT: Sky Sports Cricket FHD
+http://landiptv.live:8080/EDGARDO/203040/74772
+#EXTINF:0,SPORT: Sky Sports F1 FHD
+http://landiptv.live:8080/EDGARDO/203040/93228
+#EXTINF:0,SPORT: Sky Sports Football FHD
+http://landiptv.live:8080/EDGARDO/203040/74491
+#EXTINF:0,SPORT: Sky Sports Golf FHD
+http://landiptv.live:8080/EDGARDO/203040/74500
+#EXTINF:0,SPORT: Sky Sports Main Event FHD
+http://landiptv.live:8080/EDGARDO/203040/91444
+#EXTINF:0,SPORT: Sky Sports Mix FHD
+http://landiptv.live:8080/EDGARDO/203040/93462
+#EXTINF:0,SPORT: Sky Sports News FHD
+http://landiptv.live:8080/EDGARDO/203040/74481
+#EXTINF:0,SPORT: Sky Sports Premier League FHD
+http://landiptv.live:8080/EDGARDO/203040/93080
+#EXTINF:0,SPORT: Sky Sports 1 Main Event HD
+http://landiptv.live:8080/EDGARDO/203040/127821
+#EXTINF:0,SPORT: Sky Sports 2 Cricket HD
+http://landiptv.live:8080/EDGARDO/203040/127823
+#EXTINF:0,SPORT: Sky Sports 3 Action HD
+http://landiptv.live:8080/EDGARDO/203040/127824
+#EXTINF:0,SPORT: Sky Sports 4 Golf HD
+http://landiptv.live:8080/EDGARDO/203040/127825
+#EXTINF:0,SPORT: Sky Sports 5 Football HD
+http://landiptv.live:8080/EDGARDO/203040/127826
+#EXTINF:0,SPORT: Sky Sports Action HD
+http://landiptv.live:8080/EDGARDO/203040/74496
+#EXTINF:0,SPORT: Sky Sports Arena HD
+http://landiptv.live:8080/EDGARDO/203040/74495
+#EXTINF:0,SPORT: Sky Sports Box Office HD
+http://landiptv.live:8080/EDGARDO/203040/128429
+#EXTINF:0,SPORT: Sky Sports Cricket HD
+http://landiptv.live:8080/EDGARDO/203040/74492
+#EXTINF:0,SPORT: Sky Sports F1 HD
+http://landiptv.live:8080/EDGARDO/203040/74497
+#EXTINF:0,SPORT: Sky Sports Football HD
+http://landiptv.live:8080/EDGARDO/203040/65085
+#EXTINF:0,SPORT: Sky Sports Golf HD
+http://landiptv.live:8080/EDGARDO/203040/74770
+#EXTINF:0,SPORT: Sky Sports Main Event HD
+http://landiptv.live:8080/EDGARDO/203040/74486
+#EXTINF:0,SPORT: Sky Sports Mix HD
+http://landiptv.live:8080/EDGARDO/203040/98196
+#EXTINF:0,SPORT: Sky Sports News HD
+http://landiptv.live:8080/EDGARDO/203040/91401
+#EXTINF:0,SPORT: Sky Sports News HQ HD
+http://landiptv.live:8080/EDGARDO/203040/93230
+#EXTINF:0,SPORT: Sky Sports P/L HD
+http://landiptv.live:8080/EDGARDO/203040/127827
+#EXTINF:0,SPORT: Sky Sports Premier League HD
+http://landiptv.live:8080/EDGARDO/203040/65083
+#EXTINF:0,SPORT: Sky Sports The Open HD
+http://landiptv.live:8080/EDGARDO/203040/93236

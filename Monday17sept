@@ -1,67 +1,37 @@
 #EXTM3U
-#EXTINF:-1,CA-TSN1
-http://rb-group-server.com:25461/12341234/12341234/3684
-#EXTINF:-1,CA-TSN2
-http://rb-group-server.com:25461/12341234/12341234/3683
-#EXTINF:-1,CA-TSN3
-http://rb-group-server.com:25461/12341234/12341234/3682
-#EXTINF:-1,CA-TSN4
-http://rb-group-server.com:25461/12341234/12341234/3681
-#EXTINF:-1,USA FoxSports 1
-http://rb-group-server.com:25461/12341234/12341234/3716
-#EXTINF:-1,USA Fox Sports 2 HD
-http://rb-group-server.com:25461/12341234/12341234/3715
-#EXTINF:-1,Eir Sport1
-http://rb-group-server.com:25461/12341234/12341234/4765
-#EXTINF:-1,Eir Sport 2
-http://rb-group-server.com:25461/12341234/12341234/4740
-#EXTINF:-1,Sky Sports News UK
-http://rb-group-server.com:25461/12341234/12341234/4785
-#EXTINF:-1,Sky Sports Action
-http://rb-group-server.com:25461/12341234/12341234/4783
-#EXTINF:-1,Sky Sports F1
-http://rb-group-server.com:25461/12341234/12341234/4778
-#EXTINF:-1,Sky Sports 5 HD
-http://rb-group-server.com:25461/12341234/12341234/4779
+
 #EXTINF:-1,Sky Sports Main Event
 http://rb-group-server.com:25461/12341234/12341234/4784
-#EXTINF:-1,Sky Sports MIX
-http://rb-group-server.com:25461/12341234/12341234/4782
-#EXTINF:-1,Sky Sports Cricket
-http://rb-group-server.com:25461/12341234/12341234/4781
-#EXTINF:-1,Bt Sport Extra1
-http://rb-group-server.com:25461/12341234/12341234/4746
-#EXTINF:-1,Sky Sports Golf
-http://rb-group-server.com:25461/12341234/12341234/4780
-#EXTINF:-1,BT Sports 1
-http://rb-group-server.com:25461/12341234/12341234/4777
-#EXTINF:-1,BT Sports 2
-http://rb-group-server.com:25461/12341234/12341234/4776
-#EXTINF:-1,BT Sports 3
-http://rb-group-server.com:25461/12341234/12341234/4775
-#EXTINF:-1,BT Sport Extra_2
-http://rb-group-server.com:25461/12341234/12341234/4745
-#EXTINF:-1,BT Sport Extra 3
-http://rb-group-server.com:25461/12341234/12341234/4744
-#EXTINF:-1,BT Sport Extra 4
-http://rb-group-server.com:25461/12341234/12341234/4743
-#EXTINF:-1,BT Sport ESPN
-http://rb-group-server.com:25461/12341234/12341234/4742
-#EXTINF:-1,UK:SKYSPORTSACTION
-http://51.15.21.98:8898/live/dgoksnL5Qj/o6hpFytoHA/12871.m3u8
-#EXTINF:-1,UK:SKYSPORTSARENA
-http://51.15.21.98:8898/live/dgoksnL5Qj/o6hpFytoHA/12876.m3u8
-#EXTINF:-1,UK:SKYSPORTSCRICKET
-http://51.15.21.98:8898/live/dgoksnL5Qj/o6hpFytoHA/12872.m3u8
-#EXTINF:-1,UK:SKYSPORTSF1
-http://51.15.21.98:8898/live/dgoksnL5Qj/o6hpFytoHA/12873.m3u8
-#EXTINF:-1,UK: Sky Sport Premier League
-http://51.15.21.98:8898/live/dgoksnL5Qj/o6hpFytoHA/12316.m3u8
-#EXTINF:-1,UK:SKYSPORTSFOOTBALL
-http://51.15.21.98:8898/live/dgoksnL5Qj/o6hpFytoHA/12875.m3u8
 #EXTINF:-1,UK:SKYSPORTSMAINEVENT
 http://51.15.21.98:8898/live/dgoksnL5Qj/o6hpFytoHA/12877.m3u8
-#EXTINF:-1,UK:SKYSPORTSMIX
-http://51.15.21.98:8898/live/dgoksnL5Qj/o6hpFytoHA/12870.m3u8
-#EXTINF:-1,UK:SKYSPORTSPREMIERLEAGUE
-http://51.15.21.98:8898/live/dgoksnL5Qj/o6hpFytoHA/12874.m3u8
+#EXTINF:-1,SKY SPORTS MAIN EVENT
+http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/872.ts
+#EXTINF:-1,TSN 5 HD
+http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/928.ts
+#EXTINF:-1,Sky Sports Main Event
+http://rb-group-server.com:25461/live/hhh/hhh/4784.m3u8
+#EXTINF:-1,SKY Sports Main Event HD
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/11145
+#EXTINF:-1,Sky Sports Main Event FHD
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/26799
+#EXTINF:-1,Sky Sports Main Event (Backup)
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/29401
+#EXTINF:-1,USA:TSN 5 HD
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/20840
+#EXTINF:-1,UK: SKY SPORT MAIN EVENT HD
+http://iptvtugapt.site:8080/ric1280/1904slb/16300
+
+#EXTINF:-1,AR: Bein Sport 10 HD
+http://ipsatpro.biz:8080/live/11021102/11021102/160.ts
+#EXTINF:-1,AR: Bein Sport 11 HD
+http://ipsatpro.biz:8080/live/11021102/11021102/159.ts
+#EXTINF:-1,AR: Bein Sport 12 HD
+http://ipsatpro.biz:8080/live/11021102/11021102/170.ts
+#EXTINF:-1,beIN SPORTS HD10
+http://rb-group-server.com:25461/live/hhh/hhh/3158.m3u8
+#EXTINF:-1,beIN SPORTS NEWS HD
+http://rb-group-server.com:25461/live/hhh/hhh/3150.m3u8
+#EXTINF:-1,beIN SPORTS HD11
+http://rb-group-server.com:25461/live/hhh/hhh/3157.m3u8
+#EXTINF:-1,beIN SPORTS HD12
+http://rb-group-server.com:25461/live/hhh/hhh/3156.m3u8

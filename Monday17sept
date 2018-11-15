@@ -1,37 +1,215 @@
 #EXTM3U
-
-#EXTINF:-1,Sky Sports Main Event
-http://rb-group-server.com:25461/12341234/12341234/4784
-#EXTINF:-1,UK:SKYSPORTSMAINEVENT
-http://51.15.21.98:8898/live/dgoksnL5Qj/o6hpFytoHA/12877.m3u8
-#EXTINF:-1,SKY SPORTS MAIN EVENT
-http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/872.ts
-#EXTINF:-1,TSN 5 HD
-http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/928.ts
-#EXTINF:-1,Sky Sports Main Event
-http://rb-group-server.com:25461/live/hhh/hhh/4784.m3u8
-#EXTINF:-1,SKY Sports Main Event HD
-http://cs22cs.uk:8000/hansna/DvA3dDqJnC/11145
-#EXTINF:-1,Sky Sports Main Event FHD
-http://cs22cs.uk:8000/hansna/DvA3dDqJnC/26799
-#EXTINF:-1,Sky Sports Main Event (Backup)
-http://cs22cs.uk:8000/hansna/DvA3dDqJnC/29401
-#EXTINF:-1,USA:TSN 5 HD
-http://cs22cs.uk:8000/hansna/DvA3dDqJnC/20840
-#EXTINF:-1,UK: SKY SPORT MAIN EVENT HD
-http://iptvtugapt.site:8080/ric1280/1904slb/16300
-
-#EXTINF:-1,AR: Bein Sport 10 HD
-http://ipsatpro.biz:8080/live/11021102/11021102/160.ts
-#EXTINF:-1,AR: Bein Sport 11 HD
-http://ipsatpro.biz:8080/live/11021102/11021102/159.ts
-#EXTINF:-1,AR: Bein Sport 12 HD
-http://ipsatpro.biz:8080/live/11021102/11021102/170.ts
-#EXTINF:-1,beIN SPORTS HD10
-http://rb-group-server.com:25461/live/hhh/hhh/3158.m3u8
-#EXTINF:-1,beIN SPORTS NEWS HD
-http://rb-group-server.com:25461/live/hhh/hhh/3150.m3u8
-#EXTINF:-1,beIN SPORTS HD11
-http://rb-group-server.com:25461/live/hhh/hhh/3157.m3u8
-#EXTINF:-1,beIN SPORTS HD12
-http://rb-group-server.com:25461/live/hhh/hhh/3156.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="------- UK Sports -------" tvg-logo="" group-title="United Kingdom",------- UK Sports -------
+http://tv.iptvshqip.itv.world:8080/1moKRYSAbs/Gustu321jeton/15576
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="Sky Sports F1 FHD UK" tvg-logo="http://pici.life/uk/SkySportsF1.uk.png" group-title="United Kingdom",Sky Sports F1 FHD UK
+http://tv.iptvshqip.itv.world:8080/1moKRYSAbs/Gustu321jeton/6535
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="Sky Sports F1 HD UK" tvg-logo="https://pici.life/lg/UK/Sky%20Sports%20F1%20HD%20UK.png" group-title="United Kingdom",Sky Sports F1 HD UK
+http://tv.iptvshqip.itv.world:8080/1moKRYSAbs/Gustu321jeton/15708
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="Sky Sports F1 UK" tvg-logo="http://pici.life/uk/SkySportsF1.uk.png" group-title="United Kingdom",Sky Sports F1 UK
+http://tv.iptvshqip.itv.world:8080/1moKRYSAbs/Gustu321jeton/6536
+#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="Sky Sports Mix HD UK" tvg-logo="http://pici.life/uk/SkySportsMix.uk.png" group-title="United Kingdom",Sky Sports Mix HD UK
+http://tv.iptvshqip.itv.world:8080/1moKRYSAbs/Gustu321jeton/7925
+#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="Sky Sports Mix UK" tvg-logo="http://pici.life/uk/SkySportsMix.uk.png" group-title="United Kingdom",Sky Sports Mix UK
+http://tv.iptvshqip.itv.world:8080/1moKRYSAbs/Gustu321jeton/6534
+#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="Sky Sports News FHD UK" tvg-logo="" group-title="United Kingdom",Sky Sports News FHD UK
+http://tv.iptvshqip.itv.world:8080/1moKRYSAbs/Gustu321jeton/15702
+#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="Sky Sports News HD UK" tvg-logo="https://pici.life/lg/UK/Sky-Sports-News-HD%20UK.png" group-title="United Kingdom",Sky Sports News HD UK
+http://tv.iptvshqip.itv.world:8080/1moKRYSAbs/Gustu321jeton/15701
+#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="Sky Sports News UK" tvg-logo="http://pici.life/uk/SkySportsNews.uk.png" group-title="United Kingdom",Sky Sports News UK
+http://tv.iptvshqip.itv.world:8080/1moKRYSAbs/Gustu321jeton/6533
+#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-name="Sky Sports Action FHD UK" tvg-logo="http://pici.life/skysportsaction.png" group-title="United Kingdom",Sky Sports Action FHD UK
+http://tv.iptvshqip.itv.world:8080/1moKRYSAbs/Gustu321jeton/7920
+#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-name="Sky Sports Action HD UK" tvg-logo="http://pici.life/uk/SkySportsAction.uk.png" group-title="United Kingdom",Sky Sports Action HD UK
+http://tv.iptvshqip.itv.world:8080/1moKRYSAbs/Gustu321jeton/7927
+#EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-name="Sky Sports Arena FHD UK" tvg-logo="" group-title="United Kingdom",Sky Sports Arena FHD UK
+http://tv.iptvshqip.itv.world:8080/1moKRYSAbs/Gustu321jeton/15710
+#EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-name="Sky Sports Arena HD UK" tvg-logo="http://pici.life/uk/SkySportsArena.uk.png" group-title="United Kingdom",Sky Sports Arena HD UK
+http://tv.iptvshqip.itv.world:8080/1moKRYSAbs/Gustu321jeton/7926
+#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="Sky Sports cricket FHD UK" tvg-logo="" group-title="United Kingdom",Sky Sports cricket FHD UK
+http://tv.iptvshqip.itv.world:8080/1moKRYSAbs/Gustu321jeton/15709
+#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="Sky Sports Cricket HD UK" tvg-logo="http://pici.life/skysportscricket.png" group-title="United Kingdom",Sky Sports Cricket HD UK
+http://tv.iptvshqip.itv.world:8080/1moKRYSAbs/Gustu321jeton/7929
+#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="Sky Sports Cricket UK" tvg-logo="http://pici.life/uk/SkySportsCricket.uk.png" group-title="United Kingdom",Sky Sports Cricket UK
+http://tv.iptvshqip.itv.world:8080/1moKRYSAbs/Gustu321jeton/79221
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Football UK" tvg-logo="" group-title="United Kingdom",Sky Sports Football UK
+http://tv.iptvshqip.itv.world:8080/1moKRYSAbs/Gustu321jeton/53165
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="Sky Sports Football HD UK" tvg-logo="http://pici.life/skysportsfootball.png" group-title="United Kingdom",Sky Sports Football HD UK
+http://tv.iptvshqip.itv.world:8080/1moKRYSAbs/Gustu321jeton/625255
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="Sky Sports Football FHD UK" tvg-logo="" group-title="United Kingdom",Sky Sports Football FHD UK
+http://tv.iptvshqip.itv.world:8080/1moKRYSAbs/Gustu321jeton/625258
+#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="Sky Sports Golf FHD UK" tvg-logo="" group-title="United Kingdom",Sky Sports Golf FHD UK
+http://tv.iptvshqip.itv.world:8080/1moKRYSAbs/Gustu321jeton/15705
+#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="Sky Sports Golf UK" tvg-logo="https://pici.life/lg/UK/Sky%20Sports%20Golf_%20UK.png" group-title="United Kingdom",Sky Sports Golf UK
+http://tv.iptvshqip.itv.world:8080/1moKRYSAbs/Gustu321jeton/9536
+#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="Sky Sports Golf HD UK" tvg-logo="" group-title="United Kingdom",Sky Sports Golf HD UK
+http://tv.iptvshqip.itv.world:8080/1moKRYSAbs/Gustu321jeton/15704
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="Sky Sports Main Event FHD UK" tvg-logo="" group-title="United Kingdom",Sky Sports Main Event FHD UK
+http://tv.iptvshqip.itv.world:8080/1moKRYSAbs/Gustu321jeton/15703
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="Sky Sports Main Event HD UK" tvg-logo="http://pici.life/skysportsmainevet.png" group-title="United Kingdom",Sky Sports Main Event HD UK
+http://tv.iptvshqip.itv.world:8080/1moKRYSAbs/Gustu321jeton/7932
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="Sky Sports Main Event UK" tvg-logo="http://pici.life/uk/SkySportsMainEvent.uk.png" group-title="United Kingdom",Sky Sports Main Event UK
+http://tv.iptvshqip.itv.world:8080/1moKRYSAbs/Gustu321jeton/53277
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Premier League FHD UK" tvg-logo="http://pici.life/uk/SkySportsPremiereLeague.uk.png" group-title="United Kingdom",Sky Sports Premier League FHD UK
+http://tv.iptvshqip.itv.world:8080/1moKRYSAbs/Gustu321jeton/7923
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Premier League HD UK" tvg-logo="http://pici.life/skysport1.png" group-title="United Kingdom",Sky Sports Premier League HD UK
+http://tv.iptvshqip.itv.world:8080/1moKRYSAbs/Gustu321jeton/7931
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Premier League UK" tvg-logo="https://pici.life/lg/UK/Sky%20Sports%20Premier%20League%20UK.png" group-title="United Kingdom",Sky Sports Premier League UK
+http://tv.iptvshqip.itv.world:8080/1moKRYSAbs/Gustu321jeton/15700
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports The Open FHD UK" tvg-logo="http://pici.life/skysportstheopen.png" group-title="United Kingdom",Sky Sports The Open FHD UK
+http://tv.iptvshqip.itv.world:8080/1moKRYSAbs/Gustu321jeton/7928
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports The Open UK" tvg-logo="http://pici.life/uk/SkySportsTheOpen.uk.png" group-title="United Kingdom",Sky Sports The Open UK
+http://tv.iptvshqip.itv.world:8080/1moKRYSAbs/Gustu321jeton/625251
+#EXTINF:-1 tvg-id="SkySportsBoxOffice.uk" tvg-name="Sky Sports Box Office (Live During Events Only) UK" tvg-logo="" group-title="United Kingdom",Sky Sports Box Office (Live During Events Only) UK
+http://tv.iptvshqip.itv.world:8080/1moKRYSAbs/Gustu321jeton/625252
+#EXTINF:-1 tvg-id="SkySportsBoxOffice.uk" tvg-name="Sky Box Office Sport FHD UK" tvg-logo="" group-title="United Kingdom",Sky Box Office Sport FHD UK
+http://tv.iptvshqip.itv.world:8080/1moKRYSAbs/Gustu321jeton/15828
+#EXTINF:-1 tvg-id="PremierSports.uk" tvg-name="Premier Sports HD UK" tvg-logo="http://pici.life/premiersports.png" group-title="United Kingdom",Premier Sports HD UK
+http://tv.iptvshqip.itv.world:8080/1moKRYSAbs/Gustu321jeton/7915
+#EXTINF:-1 tvg-id="" tvg-name="Eir Sport 1 UK" tvg-logo="https://pici.life/lg/UK/EIR Sport 1 UK.png" group-title="United Kingdom",Eir Sport 1 UK
+http://tv.iptvshqip.itv.world:8080/1moKRYSAbs/Gustu321jeton/6612
+#EXTINF:-1 tvg-id="" tvg-name="Eir Sport 2 UK" tvg-logo="https://pici.life/lg/UK/EIR%20Sport%202%20UK.png" group-title="United Kingdom",Eir Sport 2 UK
+http://tv.iptvshqip.itv.world:8080/1moKRYSAbs/Gustu321jeton/6611
+#EXTINF:-1 tvg-id="" tvg-name="ESPN UK" tvg-logo="" group-title="United Kingdom",ESPN UK
+http://tv.iptvshqip.itv.world:8080/1moKRYSAbs/Gustu321jeton/6610
+#EXTINF:-1 tvg-id="Eurosport1.uk" tvg-name="Eurosport 1 UK" tvg-logo="http://pici.life/uk/Eurosport1.uk.png" group-title="United Kingdom",Eurosport 1 UK
+http://tv.iptvshqip.itv.world:8080/1moKRYSAbs/Gustu321jeton/6609
+#EXTINF:-1 tvg-id="Eurosport2.uk" tvg-name="Eurosport 2 UK" tvg-logo="http://pici.life/uk/Eurosport2.uk.png" group-title="United Kingdom",Eurosport 2 UK
+http://tv.iptvshqip.itv.world:8080/1moKRYSAbs/Gustu321jeton/6608
+#EXTINF:-1 tvg-id="PremierSports.uk" tvg-name="Premier Sports 2 UK" tvg-logo="http://pici.life/uk/PremierSports.uk.png" group-title="United Kingdom",Premier Sports 2 UK
+http://tv.iptvshqip.itv.world:8080/1moKRYSAbs/Gustu321jeton/6568
+#EXTINF:-1 tvg-id="MotorsTV.uk" tvg-name="Motors TV HD UK" tvg-logo="http://pici.life/uk/MotorsTV.uk.png" group-title="United Kingdom",Motors TV HD UK
+http://tv.iptvshqip.itv.world:8080/1moKRYSAbs/Gustu321jeton/6580
+#EXTINF:-1 tvg-id="MUTV.uk" tvg-name="MUTV FHD UK" tvg-logo="" group-title="United Kingdom",MUTV FHD UK
+http://tv.iptvshqip.itv.world:8080/1moKRYSAbs/Gustu321jeton/12852
+#EXTINF:-1 tvg-id="MUTV.uk" tvg-name="MUTV HD UK" tvg-logo="https://pici.life/lg/UK/MUTV%20HD%20UK.png" group-title="United Kingdom",MUTV HD UK
+http://tv.iptvshqip.itv.world:8080/1moKRYSAbs/Gustu321jeton/6582
+#EXTINF:-1 tvg-id="LiverpoolFCTV.uk" tvg-name="Liverpool FC UK" tvg-logo="http://pici.life/uk/LiverpoolFCTV.uk.png" group-title="United Kingdom",Liverpool FC UK
+http://tv.iptvshqip.itv.world:8080/1moKRYSAbs/Gustu321jeton/6584
+#EXTINF:-1 tvg-id="" tvg-name="Rangers FC TV (Live for Matches) UK" tvg-logo="http://pici.life/rangerstvuk.png" group-title="United Kingdom",Rangers FC TV (Live for Matches) UK
+http://tv.iptvshqip.itv.world:8080/1moKRYSAbs/Gustu321jeton/7826
+#EXTINF:-1 tvg-id="" tvg-name="Celtic FC TV  FHD (Live for Matches) UK" tvg-logo="http://pici.life/celtictv.png" group-title="United Kingdom",Celtic FC TV  FHD (Live for Matches) UK
+http://tv.iptvshqip.itv.world:8080/1moKRYSAbs/Gustu321jeton/7825
+#EXTINF:-1 tvg-id="ChelseaTV.uk" tvg-name="Chelsea TV HD UK" tvg-logo="https://pici.life/lg/UK/Chelsea%20TV%20UK.png" group-title="United Kingdom",Chelsea TV HD UK
+http://tv.iptvshqip.itv.world:8080/1moKRYSAbs/Gustu321jeton/15772
+#EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="BT Sport 1 HD UK" tvg-logo="http://pici.life/uk/BTSport1.uk.png" group-title="United Kingdom",BT Sport 1 HD UK
+http://tv.iptvshqip.itv.world:8080/1moKRYSAbs/Gustu321jeton/6649
+#EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="BT Sports 1 UK" tvg-logo="http://pici.life/uk/BTSport1.uk.png" group-title="United Kingdom",BT Sports 1 UK
+http://tv.iptvshqip.itv.world:8080/1moKRYSAbs/Gustu321jeton/6646
+#EXTINF:-1 tvg-id="" tvg-name="BT Sports 2 UK" tvg-logo="http://pici.life/uk/BTSport2.uk.png" group-title="United Kingdom",BT Sports 2 UK
+http://tv.iptvshqip.itv.world:8080/1moKRYSAbs/Gustu321jeton/66532
+#EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="BT Sport 2 FHD UK" tvg-logo="http://pici.life/uk/BTSport2.uk.png" group-title="United Kingdom",BT Sport 2 FHD UK
+http://tv.iptvshqip.itv.world:8080/1moKRYSAbs/Gustu321jeton/66753
+#EXTINF:-1 tvg-id="BTSport3.uk" tvg-name="BT Sports 3 FHD UK" tvg-logo="http://pici.life/uk/BTSport3.uk.png" group-title="United Kingdom",BT Sports 3 FHD UK
+http://tv.iptvshqip.itv.world:8080/1moKRYSAbs/Gustu321jeton/6647
+#EXTINF:-1 tvg-id="" tvg-name="BT Sports 3 UK" tvg-logo="http://pici.life/uk/BTSport3.uk.png" group-title="United Kingdom",BT Sports 3 UK
+http://tv.iptvshqip.itv.world:8080/1moKRYSAbs/Gustu321jeton/6644
+#EXTINF:-1 tvg-id="BTSportX1.uk" tvg-name="BT Sport Extra 1 UK" tvg-logo="http://pici.life/uk/BTSportX1.uk.png" group-title="United Kingdom",BT Sport Extra 1 UK
+http://tv.iptvshqip.itv.world:8080/1moKRYSAbs/Gustu321jeton/6641
+#EXTINF:-1 tvg-id="BTSportX2.uk" tvg-name="BT Sport Extra 2 UK" tvg-logo="http://pici.life/uk/BTSportX2.uk.png" group-title="United Kingdom",BT Sport Extra 2 UK
+http://tv.iptvshqip.itv.world:8080/1moKRYSAbs/Gustu321jeton/6640
+#EXTINF:-1 tvg-id="BTSportX3.uk" tvg-name="BT Sport Extra 3 UK" tvg-logo="http://pici.life/btsport3extra.png" group-title="United Kingdom",BT Sport Extra 3 UK
+http://tv.iptvshqip.itv.world:8080/1moKRYSAbs/Gustu321jeton/7918
+#EXTINF:-1 tvg-id="BTSportX4.uk" tvg-name="BT Sport Extra 4 UK" tvg-logo="http://pici.life/btsport4extra.png" group-title="United Kingdom",BT Sport Extra 4 UK
+http://tv.iptvshqip.itv.world:8080/1moKRYSAbs/Gustu321jeton/7917
+#EXTINF:-1 tvg-id="BTSportX5.uk" tvg-name="BT Sport Extra 5 UK" tvg-logo="http://pici.life/btsportextra.png" group-title="United Kingdom",BT Sport Extra 5 UK
+http://tv.iptvshqip.itv.world:8080/1moKRYSAbs/Gustu321jeton/7916
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport Europe UK" tvg-logo="" group-title="United Kingdom",BT Sport Europe UK
+http://tv.iptvshqip.itv.world:8080/1moKRYSAbs/Gustu321jeton/6642
+#EXTINF:-1 tvg-id="BTSportESPN.uk" tvg-name="BT Sport ESPN HD UK" tvg-logo="" group-title="United Kingdom",BT Sport ESPN HD UK
+http://tv.iptvshqip.itv.world:8080/1moKRYSAbs/Gustu321jeton/15738
+#EXTINF:-1 tvg-id="BTSportESPN.uk" tvg-name="BT Sport ESPN UK" tvg-logo="http://pici.life/uk/BTSportESPN.uk.png" group-title="United Kingdom",BT Sport ESPN UK
+http://tv.iptvshqip.itv.world:8080/1moKRYSAbs/Gustu321jeton/6643
+#EXTINF:-1 tvg-id="AtTheRaces.uk" tvg-name="At The Races UK" tvg-logo="http://pici.life/uk/AtTheRaces.uk.png" group-title="United Kingdom",At The Races UK
+http://tv.iptvshqip.itv.world:8080/1moKRYSAbs/Gustu321jeton/6661
+#EXTINF:-1 tvg-id="Eurosport1.uk" tvg-name="Eurosport 1 HD UK" tvg-logo="" group-title="United Kingdom",Eurosport 1 HD UK
+http://tv.iptvshqip.itv.world:8080/1moKRYSAbs/Gustu321jeton/15736
+#EXTINF:-1 tvg-id="Eurosport2.uk" tvg-name="Eurosport 2 HD UK" tvg-logo="" group-title="United Kingdom",Eurosport 2 HD UK
+http://tv.iptvshqip.itv.world:8080/1moKRYSAbs/Gustu321jeton/15735
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 1 FHD UK" tvg-logo="" group-title="United Kingdom",Eleven Sports 1 FHD UK
+http://tv.iptvshqip.itv.world:8080/1moKRYSAbs/Gustu321jeton/53155
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 2 FHD UK" tvg-logo="" group-title="United Kingdom",Eleven Sports 2 FHD UK
+http://tv.iptvshqip.itv.world:8080/1moKRYSAbs/Gustu321jeton/53154
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports LA LIGA FHD UK" tvg-logo="" group-title="United Kingdom",Eleven Sports LA LIGA FHD UK
+http://tv.iptvshqip.itv.world:8080/1moKRYSAbs/Gustu321jeton/53153
+#EXTINF:-1 tvg-id="" tvg-name="Fight Sports UK" tvg-logo="" group-title="United Kingdom",Fight Sports UK
+http://tv.iptvshqip.itv.world:8080/1moKRYSAbs/Gustu321jeton/15747
+#EXTINF:-1 tvg-id="" tvg-name="------- UK Movies -------" tvg-logo="" group-title="United Kingdom",------- UK Movies -------
+http://tv.iptvshqip.itv.world:8080/1moKRYSAbs/Gustu321jeton/15575
+#EXTINF:-1 tvg-id="" tvg-name="Sky Movies Action UK" tvg-logo="http://pici.life/uk/SkyAction.uk.png" group-title="United Kingdom",Sky Movies Action UK
+http://tv.iptvshqip.itv.world:8080/1moKRYSAbs/Gustu321jeton/6558
+#EXTINF:-1 tvg-id="" tvg-name="Sky Movies Comedy UK" tvg-logo="http://pici.life/uk/SkyComedy.uk.png" group-title="United Kingdom",Sky Movies Comedy UK
+http://tv.iptvshqip.itv.world:8080/1moKRYSAbs/Gustu321jeton/6557
+#EXTINF:-1 tvg-id="" tvg-name="Sky Movies Drama UK" tvg-logo="http://pici.life/uk/SkyDrama.uk.png" group-title="United Kingdom",Sky Movies Drama UK
+http://tv.iptvshqip.itv.world:8080/1moKRYSAbs/Gustu321jeton/6556
+#EXTINF:-1 tvg-id="" tvg-name="Sky Movies Family UK" tvg-logo="http://pici.life/uk/SkyFamily.uk.png" group-title="United Kingdom",Sky Movies Family UK
+http://tv.iptvshqip.itv.world:8080/1moKRYSAbs/Gustu321jeton/6555
+#EXTINF:-1 tvg-id="" tvg-name="Sky Movies Modern Greats UK" tvg-logo="http://pici.life/uk/SkyGreats.uk.png" group-title="United Kingdom",Sky Movies Modern Greats UK
+http://tv.iptvshqip.itv.world:8080/1moKRYSAbs/Gustu321jeton/6554
+#EXTINF:-1 tvg-id="" tvg-name="Sky Movies Premiere UK" tvg-logo="http://pici.life/uk/SkyPremiere.uk.png" group-title="United Kingdom",Sky Movies Premiere UK
+http://tv.iptvshqip.itv.world:8080/1moKRYSAbs/Gustu321jeton/6553
+#EXTINF:-1 tvg-id="" tvg-name="Sky Movies Scifi Horror UK" tvg-logo="http://pici.life/uk/SkySciFiHorror.uk.png" group-title="United Kingdom",Sky Movies Scifi Horror UK
+http://tv.iptvshqip.itv.world:8080/1moKRYSAbs/Gustu321jeton/6552
+#EXTINF:-1 tvg-id="" tvg-name="Sky Movies Select UK" tvg-logo="http://pici.life/uk/SkySelect.uk.png" group-title="United Kingdom",Sky Movies Select UK
+http://tv.iptvshqip.itv.world:8080/1moKRYSAbs/Gustu321jeton/6551
+#EXTINF:-1 tvg-id="" tvg-name="Sky Movies Showcase UK" tvg-logo="http://pici.life/uk/Showcase.uk.png" group-title="United Kingdom",Sky Movies Showcase UK
+http://tv.iptvshqip.itv.world:8080/1moKRYSAbs/Gustu321jeton/6550
+#EXTINF:-1 tvg-id="" tvg-name="Sky Movies Thriller UK" tvg-logo="http://pici.life/uk/SkyCrimeThriller.uk.png" group-title="United Kingdom",Sky Movies Thriller UK
+http://tv.iptvshqip.itv.world:8080/1moKRYSAbs/Gustu321jeton/6549
+#EXTINF:-1 tvg-id="Showcase.uk" tvg-name="Movies Showcase UK" tvg-logo="http://pici.life/lg/UK/showcase.png" group-title="United Kingdom",Movies Showcase UK
+http://tv.iptvshqip.itv.world:8080/1moKRYSAbs/Gustu321jeton/15904
+#EXTINF:-1 tvg-id="SkyLiving.uk" tvg-name="Sky Witness UK" tvg-logo="http://pici.life/skyliving.png" group-title="United Kingdom",Sky Witness UK
+http://tv.iptvshqip.itv.world:8080/1moKRYSAbs/Gustu321jeton/7912
+#EXTINF:-1 tvg-id="" tvg-name="Sky Witness +1 UK" tvg-logo="" group-title="United Kingdom",Sky Witness +1 UK
+http://tv.iptvshqip.itv.world:8080/1moKRYSAbs/Gustu321jeton/15692
+#EXTINF:-1 tvg-id="SkyLiving.uk" tvg-name="Sky Witness HD UK" tvg-logo="http://pici.life/uk/SkyLiving.uk.png" group-title="United Kingdom",Sky Witness HD UK
+http://tv.iptvshqip.itv.world:8080/1moKRYSAbs/Gustu321jeton/6559
+#EXTINF:-1 tvg-id="" tvg-name="Sky One UK" tvg-logo="" group-title="United Kingdom",Sky One UK
+http://tv.iptvshqip.itv.world:8080/1moKRYSAbs/Gustu321jeton/6547
+#EXTINF:-1 tvg-id="TrueMovies.uk" tvg-name="True Movies UK" tvg-logo="http://pici.life/uk/TrueMovies.uk.png" group-title="United Kingdom",True Movies UK
+http://tv.iptvshqip.itv.world:8080/1moKRYSAbs/Gustu321jeton/6524
+#EXTINF:-1 tvg-id="" tvg-name="True Movies 2 UK" tvg-logo="http://pici.life/uk/TrueMovies.uk.png" group-title="United Kingdom",True Movies 2 UK
+http://tv.iptvshqip.itv.world:8080/1moKRYSAbs/Gustu321jeton/6523
+#EXTINF:-1 tvg-id="" tvg-name="Movies 4 Men UK" tvg-logo="http://pici.life/uk/Movies4Men.uk.png" group-title="United Kingdom",Movies 4 Men UK
+http://tv.iptvshqip.itv.world:8080/1moKRYSAbs/Gustu321jeton/6579
+#EXTINF:-1 tvg-id="Movies4Men.uk" tvg-name="Movies4Men +1 UK" tvg-logo="http://pici.life/lg/UK/movies4menplus1.png" group-title="United Kingdom",Movies4Men +1 UK
+http://tv.iptvshqip.itv.world:8080/1moKRYSAbs/Gustu321jeton/15820
+#EXTINF:-1 tvg-id="SonyMovies.uk" tvg-name="Sony Movies UK" tvg-logo="" group-title="United Kingdom",Sony Movies UK
+http://tv.iptvshqip.itv.world:8080/1moKRYSAbs/Gustu321jeton/9528
+#EXTINF:-1 tvg-id="Film4.uk" tvg-name="Film 4 UK" tvg-logo="http://pici.life/uk/Film4.uk.png" group-title="United Kingdom",Film 4 UK
+http://tv.iptvshqip.itv.world:8080/1moKRYSAbs/Gustu321jeton/6607
+#EXTINF:-1 tvg-id="Film4.uk" tvg-name="Film 4 HD UK" tvg-logo="" group-title="United Kingdom",Film 4 HD UK
+http://tv.iptvshqip.itv.world:8080/1moKRYSAbs/Gustu321jeton/15746
+#EXTINF:-1 tvg-id="TCM.uk" tvg-name="TCM HD UK" tvg-logo="" group-title="United Kingdom",TCM HD UK
+http://tv.iptvshqip.itv.world:8080/1moKRYSAbs/Gustu321jeton/9511
+#EXTINF:-1 tvg-id="" tvg-name="TCM HD English Lang UK" tvg-logo="" group-title="United Kingdom",TCM HD English Lang UK
+http://tv.iptvshqip.itv.world:8080/1moKRYSAbs/Gustu321jeton/9510
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Box Office 1 FHD UK" tvg-logo="" group-title="United Kingdom",Sky Cinema Box Office 1 FHD UK
+http://tv.iptvshqip.itv.world:8080/1moKRYSAbs/Gustu321jeton/15878
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Box Office 2 FHD UK" tvg-logo="" group-title="United Kingdom",Sky Cinema Box Office 2 FHD UK
+http://tv.iptvshqip.itv.world:8080/1moKRYSAbs/Gustu321jeton/15879
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Box Office 4 FHD UK" tvg-logo="" group-title="United Kingdom",Sky Cinema Box Office 4 FHD UK
+http://tv.iptvshqip.itv.world:8080/1moKRYSAbs/Gustu321jeton/15893
+#EXTINF:-1 tvg-id="SkyAction.uk" tvg-name="Sky Movies Action & Adventure HD UK" tvg-logo="" group-title="United Kingdom",Sky Movies Action & Adventure HD UK
+http://tv.iptvshqip.itv.world:8080/1moKRYSAbs/Gustu321jeton/15720
+#EXTINF:-1 tvg-id="SkyComedy.uk" tvg-name="Sky Movies Comedy HD UK" tvg-logo="" group-title="United Kingdom",Sky Movies Comedy HD UK
+http://tv.iptvshqip.itv.world:8080/1moKRYSAbs/Gustu321jeton/15719
+#EXTINF:-1 tvg-id="SkyDisney.uk" tvg-name="Sky Movies Disney HD UK" tvg-logo="" group-title="United Kingdom",Sky Movies Disney HD UK
+http://tv.iptvshqip.itv.world:8080/1moKRYSAbs/Gustu321jeton/15717
+#EXTINF:-1 tvg-id="SkyDrama.uk" tvg-name="Sky Movies Drama & Romance HD UK" tvg-logo="" group-title="United Kingdom",Sky Movies Drama & Romance HD UK
+http://tv.iptvshqip.itv.world:8080/1moKRYSAbs/Gustu321jeton/15716
+#EXTINF:-1 tvg-id="SkyFamily.uk" tvg-name="Sky Movies Family HD UK" tvg-logo="" group-title="United Kingdom",Sky Movies Family HD UK
+http://tv.iptvshqip.itv.world:8080/1moKRYSAbs/Gustu321jeton/15715
+#EXTINF:-1 tvg-id="SkyPremierePlus1.uk" tvg-name="Sky Movies Premiere +1 HD UK" tvg-logo="" group-title="United Kingdom",Sky Movies Premiere +1 HD UK
+http://tv.iptvshqip.itv.world:8080/1moKRYSAbs/Gustu321jeton/15714
+#EXTINF:-1 tvg-id="SkyPremiere.uk" tvg-name="Sky Movies Premiere HD UK" tvg-logo="" group-title="United Kingdom",Sky Movies Premiere HD UK
+http://tv.iptvshqip.itv.world:8080/1moKRYSAbs/Gustu321jeton/15713
+#EXTINF:-1 tvg-id="SkySciFiHorror.uk" tvg-name="Sky Movies Sci-Fi & Horror HD UK" tvg-logo="" group-title="United Kingdom",Sky Movies Sci-Fi & Horror HD UK
+http://tv.iptvshqip.itv.world:8080/1moKRYSAbs/Gustu321jeton/15712
+#EXTINF:-1 tvg-id="SkySelect.uk" tvg-name="Sky Movies Select HD UK" tvg-logo="" group-title="United Kingdom",Sky Movies Select HD UK
+http://tv.iptvshqip.itv.world:8080/1moKRYSAbs/Gustu321jeton/15711
+#EXTINF:-1 tvg-id="SkyCrimeThriller.uk" tvg-name="Sky Movies Thriller HD UK" tvg-logo="" group-title="United Kingdom",Sky Movies Thriller HD UK
+http://tv.iptvshqip.itv.world:8080/1moKRYSAbs/Gustu321jeton/15718
+#EXTINF:-1 tvg-id="SonyMovies.uk" tvg-name="Sony Movies +1 UK" tvg-logo="http://pici.life/lg/UK/sonymoviesplus1.png" group-title="United Kingdom",Sony Movies +1 UK
+http://tv.iptvshqip.itv.world:8080/1moKRYSAbs/Gustu321jeton/15896
+#EXTINF:-1 tvg-id="" tvg-name="TCM +1 UK" tvg-logo="http://pici.life/lg/UK/tcmplus1.png" group-title="United Kingdom",TCM +1 UK
+http://tv.iptvshqip.itv.world:8080/1moKRYSAbs/Gustu321jeton/15882

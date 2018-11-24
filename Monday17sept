@@ -75,10 +75,6 @@ http://rb-group-server.com:25461/12341234/12341234/6038
 http://rb-group-server.com:25461/12341234/12341234/4857
 #EXTINF:-1,Sky Cinema Disney HD
 http://rb-group-server.com:25461/12341234/12341234/4861
-#EXTINF:-1 group-title="XXX",SCT HD [IT][576p]
-http://mag.clientportal.link:8080/live/Lisardo/Lisardo1/15884.ts
-#EXTINF:-1 group-title="XXX",DUSK TV [NL][576p]
-http://mag.clientportal.link:8080/live/Lisardo/Lisardo1/15878.ts
 #EXTINF:-1,Movies24
 http://rb-group-server.com:25461/12341234/12341234/6036
 #EXTINF:-1,Movies4Men
@@ -121,3 +117,94 @@ http://rb-group-server.com:25461/12341234/12341234/4781
 http://rb-group-server.com:25461/12341234/12341234/4746
 #EXTINF:-1,Sky Sports Golf
 http://rb-group-server.com:25461/12341234/12341234/4780
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS♥",UK: Sky sports MainEvents
+http://hall2mark.ddns.net:80/medoum1/medoum/2919
+#EXTINF:0 tvg-id="SkySpFball.uk" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS♥",UK: Sky sport Football HD
+http://hall2mark.ddns.net:80/medoum1/medoum/5593
+#EXTINF:0 tvg-id="SkySpPL.uk" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS♥",UK: Sky Sport Premier League HD
+http://hall2mark.ddns.net:80/medoum1/medoum/20853
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS♥",UK: Sky sport golf HD
+http://hall2mark.ddns.net:80/medoum1/medoum/4105
+#EXTINF:0 tvg-id="SkySpAction.uk" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS♥",UK: Sky Sport Action HD
+http://hall2mark.ddns.net:80/medoum1/medoum/2917
+#EXTINF:0 tvg-id="SkySpArena.uk" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS♥",UK: Sky sport Arena HD
+http://hall2mark.ddns.net:80/medoum1/medoum/5594
+#EXTINF:0 tvg-id="SkySpF1.uk" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS♥",UK: Sky sport F1 HD
+http://hall2mark.ddns.net:80/medoum1/medoum/3046
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS♥",UK: Sky Sport Mix HD
+http://hall2mark.ddns.net:80/medoum1/medoum/3041
+#EXTINF:-1,BBC Alba
+http://rb-group-server.com:25461/12341234/12341234/6035
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a5/BBC_Alba.svg/1280px-BBC_Alba.svg.png" group-title="UK",BBC Alba
+http://176.126.247.218:8080/ServerNL/CO4Nr3yeA7K/18.ch
+#EXTINF:-1,Sky Cinema Premier HD
+http://rb-group-server.com:25461/12341234/12341234/4852
+#EXTINF:-1,Sky Cinema Select HD
+http://rb-group-server.com:25461/12341234/12341234/4850
+#EXTINF:-1,Sky Cinema Action HD
+http://rb-group-server.com:25461/12341234/12341234/4853
+#EXTINF:-1,Sky Cinema Thriller HD
+http://rb-group-server.com:25461/12341234/12341234/4860
+#EXTINF:-1,Sky Cinema Scifi & Horror HD
+http://rb-group-server.com:25461/12341234/12341234/4858
+#EXTINF:-1,Sky Cinema Family HD
+http://rb-group-server.com:25461/12341234/12341234/4855
+#EXTINF:-1,Sky Cinema Comedy HD
+http://rb-group-server.com:25461/12341234/12341234/4859
+#EXTINF:-1,Sky Cinema Bourne HD
+http://rb-group-server.com:25461/12341234/12341234/4856
+#EXTINF:-1,Sky Cinema Christmas HD
+http://rb-group-server.com:25461/12341234/12341234/6039
+#EXTINF:-1,Sky Cinema Superhero HD
+http://rb-group-server.com:25461/12341234/12341234/6038
+#EXTINF:-1,Sky Cinema Greats
+http://rb-group-server.com:25461/12341234/12341234/4857
+#EXTINF:-1,Sky Cinema Disney HD
+http://rb-group-server.com:25461/12341234/12341234/4861
+http://rb-group-server.com:25461/12341234/12341234/4785
+#EXTINF:-1,Sky Sports Action
+http://rb-group-server.com:25461/12341234/12341234/4783
+#EXTINF:-1,Sky Sports F1
+http://rb-group-server.com:25461/12341234/12341234/4778
+#EXTINF:-1,Sky Sports 5 HD
+http://rb-group-server.com:25461/12341234/12341234/4779
+#EXTINF:-1,Sky Sports Main Event
+http://rb-group-server.com:25461/12341234/12341234/4784
+#EXTINF:-1,Sky Sports MIX
+http://rb-group-server.com:25461/12341234/12341234/4782
+#EXTINF:-1,Sky Sports Cricket
+http://rb-group-server.com:25461/12341234/12341234/4781
+#EXTINF:-1,Bt Sport Extra1
+http://rb-group-server.com:25461/12341234/12341234/4746
+#EXTINF:-1,Sky Sports Golf
+http://rb-group-server.com:25461/12341234/12341234/4780
+#EXTINF:-1,TSN 1
+http://vmdirect.co.uk:5001/live/Errol/Errol/52.m3u8
+#EXTINF:-1,TSN 2
+http://vmdirect.co.uk:5001/live/Errol/Errol/51.m3u8
+#EXTINF:-1,TSN 3
+http://vmdirect.co.uk:5001/live/Errol/Errol/50.m3u8
+#EXTINF:-1,TSN 4
+http://vmdirect.co.uk:5001/live/Errol/Errol/49.m3u8
+#EXTINF:-1,TSN 5
+http://vmdirect.co.uk:5001/live/Errol/Errol/48.m3u8
+#EXTINF:-1,Us- TSN 1 HD
+http://m-iptv.net:6204/marwan/123/10636
+#EXTINF:-1,Us- TSN 2 HD
+http://m-iptv.net:6204/marwan/123/10635
+#EXTINF:-1,Us- TSN 3 HD
+http://m-iptv.net:6204/marwan/123/10634
+#EXTINF:-1,Us- TSN 4 HD
+http://m-iptv.net:6204/marwan/123/10633
+#EXTINF:-1,Us- TSN 5 HD
+http://m-iptv.net:6204/marwan/123/10632
+EXTINF:-1,TSN1 CA
+http://167.114.102.172:2086/1izlQG5f8n/f4pMyOXYEa/25124
+EXTINF:-1,TSN2 CA
+http://167.114.102.172:2086/1izlQG5f8n/f4pMyOXYEa/25123
+EXTINF:-1,TSN3 CA
+http://167.114.102.172:2086/1izlQG5f8n/f4pMyOXYEa/25122
+EXTINF:-1,TSN4 CA
+http://167.114.102.172:2086/1izlQG5f8n/f4pMyOXYEa/25121
+EXTINF:-1,TSN5 CA
+http://167.114.102.172:2086/1izlQG5f8n/f4pMyOXYEa/25120

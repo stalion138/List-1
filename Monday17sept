@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1,UK HD: BBC Alba
+http://tv.necroiptv.com/live/Sylvia/Sylvia/8680.ts
+#EXTINF:-1 tvg-id="BBC ALBA" tvg-name="BBC ALBA" tvg-logo="https://s4.postimg.org/kne4o8bsd/1280px_BBC_Alba_svg.png" group-title="BBC",BBC ALBA
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_alba.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS 1♥",UK: Sky sports MainEvents
 http://hall2mark.ddns.net:80/medoum1/medoum/2919
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VLZhggF6/L6.png" group-title="SPORTS 1♥",UK: Sky sport Football HD
